@@ -119,7 +119,37 @@
       "italian": "Sono grato, sinceramente.",
       "category": "Gratitude",
       "generated_at": "2026-03-20T20:01:37.042423"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "italian": "Continua a provare, non mollare.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-20T23:02:01.944183"
+    },
+    {
+      "english": "One step, then another.",
+      "italian": "Un passo, poi un altro.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-20T23:02:01.944193"
+    },
+    {
+      "english": "Slowly, you will succeed.",
+      "italian": "Lentamente, riuscirai.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-20T23:02:01.944194"
+    },
+    {
+      "english": "Mistakes are learning, keep going.",
+      "italian": "Gli errori insegnano, vai avanti.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-20T23:02:01.944195"
+    },
+    {
+      "english": "Push forward, you're almost there.",
+      "italian": "Spingi avanti, ci sei quasi.",
+      "category": "Perseverance",
+      "generated_at": "2026-03-20T23:02:01.944197"
     }
   ],
-  "last_updated": "2026-03-20T20:01:37.042425"
+  "last_updated": "2026-03-20T23:02:01.944198"
 }
