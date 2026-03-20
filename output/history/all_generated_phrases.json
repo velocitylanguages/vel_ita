@@ -89,7 +89,37 @@
       "italian": "Questo momento, è meraviglioso.",
       "category": "Happiness",
       "generated_at": "2026-03-20T17:56:28.404694"
+    },
+    {
+      "english": "Thank you, truly.",
+      "italian": "Grazie, davvero.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-20T20:01:37.042409"
+    },
+    {
+      "english": "I appreciate this, a lot.",
+      "italian": "Apprezzo, molto.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-20T20:01:37.042418"
+    },
+    {
+      "english": "So kind, of you.",
+      "italian": "Così gentile, da te.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-20T20:01:37.042420"
+    },
+    {
+      "english": "This means, a lot.",
+      "italian": "Significa, molto.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-20T20:01:37.042421"
+    },
+    {
+      "english": "I'm so grateful, honestly.",
+      "italian": "Sono grato, sinceramente.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-20T20:01:37.042423"
     }
   ],
-  "last_updated": "2026-03-20T17:56:28.404696"
+  "last_updated": "2026-03-20T20:01:37.042425"
 }
