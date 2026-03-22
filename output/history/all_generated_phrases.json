@@ -329,7 +329,37 @@
       "italian": "Questa, è una bella amicizia.",
       "category": "Friendship",
       "generated_at": "2026-03-22T05:34:58.589122"
+    },
+    {
+      "english": "I'm sorry, truly.",
+      "italian": "Mi dispiace, davvero.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-22T14:04:57.925924"
+    },
+    {
+      "english": "Please forgive me, okay?",
+      "italian": "Perdonami, per favore, va bene?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-22T14:04:57.925932"
+    },
+    {
+      "english": "My mistake, I understand.",
+      "italian": "Errore mio, capisco.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-22T14:04:57.925933"
+    },
+    {
+      "english": "Can you let it go?",
+      "italian": "Puoi lasciar perdere?",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-22T14:04:57.925934"
+    },
+    {
+      "english": "I hope you can forgive.",
+      "italian": "Spero tu possa perdonare.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-22T14:04:57.925935"
     }
   ],
-  "last_updated": "2026-03-22T05:34:58.589123"
+  "last_updated": "2026-03-22T14:04:57.925937"
 }
