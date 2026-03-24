@@ -599,7 +599,37 @@
       "italian": "Spingi i tuoi limiti, scopri di più.",
       "category": "Strength",
       "generated_at": "2026-03-24T16:41:32.069773"
+    },
+    {
+      "english": "Every small step, counts.",
+      "italian": "Ogni piccolo passo, conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:38:19.428277"
+    },
+    {
+      "english": "Enjoy the journey, not just the end.",
+      "italian": "Goditi il viaggio, non solo la fine.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:38:19.428285"
+    },
+    {
+      "english": "Be patient, progress comes.",
+      "italian": "Sii paziente, il progresso arriva.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:38:19.428286"
+    },
+    {
+      "english": "Embrace the new, fear not.",
+      "italian": "Abbraccia il nuovo, non temere.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:38:19.428287"
+    },
+    {
+      "english": "Curiosity fuels learning, always.",
+      "italian": "La curiosità nutre, sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-24T19:38:19.428288"
     }
   ],
-  "last_updated": "2026-03-24T16:41:32.069775"
+  "last_updated": "2026-03-24T19:38:19.428290"
 }
