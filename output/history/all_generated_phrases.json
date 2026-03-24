@@ -629,7 +629,37 @@
       "italian": "La curiosità nutre, sempre.",
       "category": "Wisdom",
       "generated_at": "2026-03-24T19:38:19.428288"
+    },
+    {
+      "english": "Speak slowly, then faster.",
+      "italian": "Parla piano, poi veloce.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:13.812015"
+    },
+    {
+      "english": "Listen well, speak more.",
+      "italian": "Ascolta bene, parla di più.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:13.812022"
+    },
+    {
+      "english": "One word, then another.",
+      "italian": "Una parola, poi un'altra.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:13.812024"
+    },
+    {
+      "english": "Don't worry, try again.",
+      "italian": "Non preoccuparti, riprova.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:13.812025"
+    },
+    {
+      "english": "Every mistake, a lesson.",
+      "italian": "Ogni errore, una lezione.",
+      "category": "Confidence",
+      "generated_at": "2026-03-24T21:01:13.812026"
     }
   ],
-  "last_updated": "2026-03-24T19:38:19.428290"
+  "last_updated": "2026-03-24T21:01:13.812028"
 }
