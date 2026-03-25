@@ -719,7 +719,37 @@
       "italian": "La mia vita, con te.",
       "category": "Love",
       "generated_at": "2026-03-25T05:42:17.968098"
+    },
+    {
+      "english": "Be brave, little by little.",
+      "italian": "Sii coraggioso, un po' alla volta.",
+      "category": "Courage",
+      "generated_at": "2026-03-25T16:47:10.119106"
+    },
+    {
+      "english": "Face it, you can do it.",
+      "italian": "Affrontalo, ce la puoi fare.",
+      "category": "Courage",
+      "generated_at": "2026-03-25T16:47:10.119115"
+    },
+    {
+      "english": "Step forward, no fear.",
+      "italian": "Fai un passo, senza paura.",
+      "category": "Courage",
+      "generated_at": "2026-03-25T16:47:10.119116"
+    },
+    {
+      "english": "Rise up, be strong.",
+      "italian": "Rialzati, sii forte.",
+      "category": "Courage",
+      "generated_at": "2026-03-25T16:47:10.119117"
+    },
+    {
+      "english": "Don't give up, keep going.",
+      "italian": "Non mollare, vai avanti.",
+      "category": "Courage",
+      "generated_at": "2026-03-25T16:47:10.119118"
     }
   ],
-  "last_updated": "2026-03-25T05:42:17.968100"
+  "last_updated": "2026-03-25T16:47:10.119120"
 }
