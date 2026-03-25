@@ -779,7 +779,37 @@
       "italian": "La tua voce conta.",
       "category": "Confidence",
       "generated_at": "2026-03-25T18:39:07.818675"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "italian": "Mi salvi, davvero.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T20:58:25.298951"
+    },
+    {
+      "english": "A big thank you, from me.",
+      "italian": "Un grande grazie, da me.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T20:58:25.298959"
+    },
+    {
+      "english": "I couldn't ask, for more.",
+      "italian": "Non posso chiedere, di più.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T20:58:25.298961"
+    },
+    {
+      "english": "My thanks, are yours.",
+      "italian": "I miei ringraziamenti, sono tuoi.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T20:58:25.298962"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "italian": "Sei il migliore, grazie.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-25T20:58:25.298963"
     }
   ],
-  "last_updated": "2026-03-25T18:39:07.818677"
+  "last_updated": "2026-03-25T20:58:25.298965"
 }
