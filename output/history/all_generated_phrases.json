@@ -809,7 +809,37 @@
       "italian": "Sei il migliore, grazie.",
       "category": "Gratitude",
       "generated_at": "2026-03-25T20:58:25.298963"
+    },
+    {
+      "english": "Learn to speak, with confidence.",
+      "italian": "Impara a parlare, con sicurezza.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T23:53:30.994818"
+    },
+    {
+      "english": "Study grammar, to improve.",
+      "italian": "Studia la grammatica, per migliorare.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T23:53:30.994826"
+    },
+    {
+      "english": "Listen carefully, and repeat.",
+      "italian": "Ascolta attentamente, e ripeti.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T23:53:30.994827"
+    },
+    {
+      "english": "Practice daily, if possible.",
+      "italian": "Esercitati ogni giorno, se puoi.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T23:53:30.994828"
+    },
+    {
+      "english": "Read books, for vocabulary.",
+      "italian": "Leggi libri, per il vocabolario.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T23:53:30.994829"
     }
   ],
-  "last_updated": "2026-03-25T20:58:25.298965"
+  "last_updated": "2026-03-25T23:53:30.994831"
 }
