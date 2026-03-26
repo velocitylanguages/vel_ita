@@ -839,7 +839,37 @@
       "italian": "Leggi libri, per il vocabolario.",
       "category": "Purpose",
       "generated_at": "2026-03-25T23:53:30.994829"
+    },
+    {
+      "english": "Stillness, is a quiet strength.",
+      "italian": "La quiete, è una forza lenta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-26T16:45:47.520242"
+    },
+    {
+      "english": "Observe thoughts, without judgment.",
+      "italian": "Osserva i pensieri, senza giudizio.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-26T16:45:47.520256"
+    },
+    {
+      "english": "Find peace, within the chaos.",
+      "italian": "Trova pace, nel caos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-26T16:45:47.520258"
+    },
+    {
+      "english": "Listen to your body's wisdom.",
+      "italian": "Ascolta la saggezza del corpo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-26T16:45:47.520260"
+    },
+    {
+      "english": "Just be here, now.",
+      "italian": "Sii solo qui, ora.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-26T16:45:47.520262"
     }
   ],
-  "last_updated": "2026-03-25T23:53:30.994831"
+  "last_updated": "2026-03-26T16:45:47.520264"
 }
