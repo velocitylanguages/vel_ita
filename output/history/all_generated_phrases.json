@@ -929,7 +929,37 @@
       "italian": "Ogni parola, una porta nuova.",
       "category": "Success",
       "generated_at": "2026-03-27T06:02:47.184474"
+    },
+    {
+      "english": "Each word, a building block.",
+      "italian": "Ogni parola, un mattone.",
+      "category": "Motivation",
+      "generated_at": "2026-03-27T16:07:40.754294"
+    },
+    {
+      "english": "The grammar, a whispered secret.",
+      "italian": "La grammatica, un segreto sussurrato.",
+      "category": "Motivation",
+      "generated_at": "2026-03-27T16:07:40.754324"
+    },
+    {
+      "english": "Listen closely, the language sings.",
+      "italian": "Ascolta attentamente, la lingua canta.",
+      "category": "Motivation",
+      "generated_at": "2026-03-27T16:07:40.754326"
+    },
+    {
+      "english": "Your fluency, a blossoming flower.",
+      "italian": "La tua fluenza, un fiore che sboccia.",
+      "category": "Motivation",
+      "generated_at": "2026-03-27T16:07:40.754328"
+    },
+    {
+      "english": "Practice patience, find your rhythm.",
+      "italian": "Pratica pazienza, trova il tuo ritmo.",
+      "category": "Motivation",
+      "generated_at": "2026-03-27T16:07:40.754330"
     }
   ],
-  "last_updated": "2026-03-27T06:02:47.184476"
+  "last_updated": "2026-03-27T16:07:40.754332"
 }
