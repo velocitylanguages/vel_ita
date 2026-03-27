@@ -899,7 +899,37 @@
       "italian": "Sono felice, che siamo amici.",
       "category": "Friendship",
       "generated_at": "2026-03-26T19:41:22.141257"
+    },
+    {
+      "english": "Learn daily, speak bravely.",
+      "italian": "Impara ogni giorno, parla con coraggio.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:02:47.184461"
+    },
+    {
+      "english": "Mistakes, are just steps.",
+      "italian": "Gli errori, sono solo passi.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:02:47.184470"
+    },
+    {
+      "english": "Listen first, then reply.",
+      "italian": "Ascolta prima, poi rispondi.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:02:47.184472"
+    },
+    {
+      "english": "Embrace the challenge, Italian.",
+      "italian": "Accetta la sfida, italiano.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:02:47.184473"
+    },
+    {
+      "english": "Every word, a new door.",
+      "italian": "Ogni parola, una porta nuova.",
+      "category": "Success",
+      "generated_at": "2026-03-27T06:02:47.184474"
     }
   ],
-  "last_updated": "2026-03-26T19:41:22.141258"
+  "last_updated": "2026-03-27T06:02:47.184476"
 }
