@@ -1589,7 +1589,37 @@
       "italian": "Semina gentilezza, raccogli gioia.",
       "category": "Growth",
       "generated_at": "2026-03-31T19:38:02.900913"
+    },
+    {
+      "english": "Taste the sun, on your skin.",
+      "italian": "Assapora il sole, sulla tua pelle.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T21:00:48.617436"
+    },
+    {
+      "english": "Find the quiet, in the noise.",
+      "italian": "Trova il silenzio, nel rumore.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T21:00:48.617445"
+    },
+    {
+      "english": "Build a bridge, not a wall.",
+      "italian": "Costruisci un ponte, non un muro.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T21:00:48.617447"
+    },
+    {
+      "english": "Listen closely, to the wind.",
+      "italian": "Ascolta attentamente, al vento.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T21:00:48.617448"
+    },
+    {
+      "english": "Breathe deep, the mountain air.",
+      "italian": "Respira a fondo, l'aria di montagna.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T21:00:48.617449"
     }
   ],
-  "last_updated": "2026-03-31T19:38:02.900915"
+  "last_updated": "2026-03-31T21:00:48.617451"
 }
