@@ -1859,7 +1859,37 @@
       "italian": "Un sentiero battuto, indica la via.",
       "category": "Wisdom",
       "generated_at": "2026-04-20T04:15:19.455130"
+    },
+    {
+      "english": "Your smile, a tiny sunbeam.",
+      "italian": "Il tuo sorriso, un piccolo raggio.",
+      "category": "Love",
+      "generated_at": "2026-04-20T14:50:20.259790"
+    },
+    {
+      "english": "My heart finds home, with you.",
+      "italian": "Il mio cuore trova casa, con te.",
+      "category": "Love",
+      "generated_at": "2026-04-20T14:50:20.259802"
+    },
+    {
+      "english": "Every moment, a shared secret.",
+      "italian": "Ogni momento, un segreto condiviso.",
+      "category": "Love",
+      "generated_at": "2026-04-20T14:50:20.259803"
+    },
+    {
+      "english": "You paint my world, with color.",
+      "italian": "Tu colori il mio mondo, di tinte.",
+      "category": "Love",
+      "generated_at": "2026-04-20T14:50:20.259804"
+    },
+    {
+      "english": "Like a gentle tide, you pull me.",
+      "italian": "Come una marea dolce, mi attiri.",
+      "category": "Love",
+      "generated_at": "2026-04-20T14:50:20.259805"
     }
   ],
-  "last_updated": "2026-04-20T04:15:19.455132"
+  "last_updated": "2026-04-20T14:50:20.259807"
 }
