@@ -2999,7 +2999,37 @@
       "italian": "Mi ancori, come radici.",
       "category": "Friendship",
       "generated_at": "2026-05-06T15:27:11.194654"
+    },
+    {
+      "english": "Your breath, a quiet river.",
+      "italian": "Il tuo respiro, un fiume quieto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-06T17:41:55.060562"
+    },
+    {
+      "english": "Listen to the silence, truly.",
+      "italian": "Ascolta il silenzio, davvero.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-06T17:41:55.060570"
+    },
+    {
+      "english": "Feel the ground, steady beneath you.",
+      "italian": "Senti il suolo, fermo sotto.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-06T17:41:55.060571"
+    },
+    {
+      "english": "This moment, a simple gift.",
+      "italian": "Questo momento, un dono semplice.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-06T17:41:55.060572"
+    },
+    {
+      "english": "Your thoughts, clouds drifting by.",
+      "italian": "I tuoi pensieri, nuvole che passano.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-06T17:41:55.060573"
     }
   ],
-  "last_updated": "2026-05-06T15:27:11.194656"
+  "last_updated": "2026-05-06T17:41:55.060575"
 }
