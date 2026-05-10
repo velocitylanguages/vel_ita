@@ -150,19 +150,22 @@ jobs:
             output/history/recent_categories.json
           retention-days: 90
           overwrite: true
-
+          
       - name: 💾 Commit phrase history to repository
         if: success()
         run: |
-              git config --local user.email "github-actions[bot]@users.noreply.github.com"
-              git config --local user.name "github-actions[bot]"
-              git add output/history/all_generated_phrases.json output/history/recent_categories.json
-              if ! git diff --staged --quiet; then
-                git commit -m "📊 Update phrase history - Run #${{ github.run_number }}"
-                # These two lines below are the specific fix for the error
-                git pull --rebase origin main
-                git push
-                echo "✅ Phrase history committed - NO repeats across runs!"
-              else
-                echo "ℹ️  No changes to commit"
-              fi
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/history/all_generated_phrases.json output/history/recent_categories.json
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "📊 Update phrase history - Run #${{ github.run_number }}"
+            
+            # Pull with rebase, but tell it to favor OUR changes if there is a conflict
+            git pull --rebase -X theirs origin main
+            
+            git push
+            echo "✅ Phrase history committed and conflicts resolved automatically!"
+          else
+            echo "ℹ️ No changes to commit"
+          fi
