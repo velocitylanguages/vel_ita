@@ -4409,7 +4409,37 @@
       "italian": "Ogni giorno, una tela nuova.",
       "category": "Confidence",
       "generated_at": "2026-05-15T23:01:38.803226"
+    },
+    {
+      "english": "Like a steady stream, our friendship flows.",
+      "italian": "Come un ruscello costante, la nostra amicizia scorre.",
+      "category": "Friendship",
+      "generated_at": "2026-05-16T04:22:58.830571"
+    },
+    {
+      "english": "You're the missing piece, my dear.",
+      "italian": "Sei il pezzo mancante, mio caro.",
+      "category": "Friendship",
+      "generated_at": "2026-05-16T04:22:58.830580"
+    },
+    {
+      "english": "Our laughter, a shared melody.",
+      "italian": "Le nostre risate, una melodia condivisa.",
+      "category": "Friendship",
+      "generated_at": "2026-05-16T04:22:58.830581"
+    },
+    {
+      "english": "In your company, the day brightens.",
+      "italian": "In tua compagnia, il giorno si illumina.",
+      "category": "Friendship",
+      "generated_at": "2026-05-16T04:22:58.830582"
+    },
+    {
+      "english": "A sturdy bridge, across any distance.",
+      "italian": "Un ponte solido, attraverso ogni distanza.",
+      "category": "Friendship",
+      "generated_at": "2026-05-16T04:22:58.830584"
     }
   ],
-  "last_updated": "2026-05-15T23:01:38.803228"
+  "last_updated": "2026-05-16T04:22:58.830585"
 }
