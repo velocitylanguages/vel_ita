@@ -5069,7 +5069,37 @@
       "italian": "La montagna, si scala una pietra alla volta.",
       "category": "Patience",
       "generated_at": "2026-05-20T16:24:44.264912"
+    },
+    {
+      "english": "Every new word, a small victory.",
+      "italian": "Ogni nuova parola, una piccola vittoria.",
+      "category": "Success",
+      "generated_at": "2026-05-20T18:17:48.873194"
+    },
+    {
+      "english": "Your progress, like a river, flows.",
+      "italian": "Il tuo progresso, come un fiume, scorre.",
+      "category": "Success",
+      "generated_at": "2026-05-20T18:17:48.873202"
+    },
+    {
+      "english": "Open the book, find a new path.",
+      "italian": "Apri il libro, trova un nuovo sentiero.",
+      "category": "Success",
+      "generated_at": "2026-05-20T18:17:48.873203"
+    },
+    {
+      "english": "Breathe in, speak out.",
+      "italian": "Inspira, poi parla.",
+      "category": "Success",
+      "generated_at": "2026-05-20T18:17:48.873205"
+    },
+    {
+      "english": "The right phrase, unlocks a door.",
+      "italian": "La frase giusta, apre una porta.",
+      "category": "Success",
+      "generated_at": "2026-05-20T18:17:48.873206"
     }
   ],
-  "last_updated": "2026-05-20T16:24:44.264914"
+  "last_updated": "2026-05-20T18:17:48.873207"
 }
