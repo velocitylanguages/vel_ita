@@ -5519,7 +5519,37 @@
       "italian": "Ogni alba, è una pagina bianca.",
       "category": "Wisdom",
       "generated_at": "2026-05-23T14:28:50.415681"
+    },
+    {
+      "english": "Each lesson, a new blossom.",
+      "italian": "Ogni lezione, un nuovo fiore.",
+      "category": "Success",
+      "generated_at": "2026-05-23T16:59:29.575058"
+    },
+    {
+      "english": "Unlock the language, find your voice.",
+      "italian": "Sblocca la lingua, trova la voce.",
+      "category": "Success",
+      "generated_at": "2026-05-23T16:59:29.575072"
+    },
+    {
+      "english": "Little by little, the whole world opens.",
+      "italian": "Poco a poco, il mondo intero si apre.",
+      "category": "Success",
+      "generated_at": "2026-05-23T16:59:29.575073"
+    },
+    {
+      "english": "Your mind, a curious garden.",
+      "italian": "La tua mente, un giardino curioso.",
+      "category": "Success",
+      "generated_at": "2026-05-23T16:59:29.575075"
+    },
+    {
+      "english": "Hear the music, speak the words.",
+      "italian": "Ascolta la musica, parla le parole.",
+      "category": "Success",
+      "generated_at": "2026-05-23T16:59:29.575076"
     }
   ],
-  "last_updated": "2026-05-23T14:28:50.415683"
+  "last_updated": "2026-05-23T16:59:29.575078"
 }
