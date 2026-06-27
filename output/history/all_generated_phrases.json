@@ -10559,7 +10559,37 @@
       "italian": "Apri le tue ali, ora.",
       "category": "Strength",
       "generated_at": "2026-06-27T14:28:27.886882"
+    },
+    {
+      "english": "The sun rises, for your efforts.",
+      "italian": "Il sole sorge, per i tuoi sforzi.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T17:10:49.998693"
+    },
+    {
+      "english": "A new day, brings new music.",
+      "italian": "Un nuovo giorno, porta nuova musica.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T17:10:49.998702"
+    },
+    {
+      "english": "Taste the moment, fully.",
+      "italian": "Assapora il momento, a pieno.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T17:10:49.998703"
+    },
+    {
+      "english": "Your path unfolds, like a river.",
+      "italian": "Il tuo cammino si svela, come un fiume.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T17:10:49.998704"
+    },
+    {
+      "english": "Listen to the quiet, within you.",
+      "italian": "Ascolta il silenzio, dentro di te.",
+      "category": "Inspiration",
+      "generated_at": "2026-06-27T17:10:49.998705"
     }
   ],
-  "last_updated": "2026-06-27T14:28:27.886884"
+  "last_updated": "2026-06-27T17:10:49.998707"
 }
