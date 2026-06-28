@@ -10679,7 +10679,37 @@
       "italian": "Stai costruendo questa abilità, mattone per mattone.",
       "category": "Success",
       "generated_at": "2026-06-28T05:10:03.327217"
+    },
+    {
+      "english": "Listen to the whispers, they tell the truth.",
+      "italian": "Ascolta i sussurri, dicono la verità.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T14:47:26.000571"
+    },
+    {
+      "english": "Build bridges, don't burn them.",
+      "italian": "Costruisci ponti, non bruciarli.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T14:47:26.000581"
+    },
+    {
+      "english": "Sip slowly, savor the moment.",
+      "italian": "Bevi lentamente, assapora l'attimo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T14:47:26.000583"
+    },
+    {
+      "english": "Let your actions sing louder than words.",
+      "italian": "Lascia che le tue azioni cantino più forte delle parole.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T14:47:26.000584"
+    },
+    {
+      "english": "Seek the sunshine, even on cloudy days.",
+      "italian": "Cerca il sole, anche nei giorni nuvolosi.",
+      "category": "Purpose",
+      "generated_at": "2026-06-28T14:47:26.000585"
     }
   ],
-  "last_updated": "2026-06-28T05:10:03.327219"
+  "last_updated": "2026-06-28T14:47:26.000587"
 }
