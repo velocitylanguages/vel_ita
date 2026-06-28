@@ -10649,7 +10649,37 @@
       "italian": "Ascolta la brezza leggera.",
       "category": "Hope",
       "generated_at": "2026-06-27T23:09:46.700032"
+    },
+    {
+      "english": "Your effort, a tiny seed.",
+      "italian": "Il tuo sforzo, un piccolo seme.",
+      "category": "Success",
+      "generated_at": "2026-06-28T05:10:03.327204"
+    },
+    {
+      "english": "Today's practice, tomorrow's fluency.",
+      "italian": "La pratica d'oggi, la fluidità di domani.",
+      "category": "Success",
+      "generated_at": "2026-06-28T05:10:03.327213"
+    },
+    {
+      "english": "Mistakes are just lessons, learned.",
+      "italian": "Gli errori sono lezioni, imparate.",
+      "category": "Success",
+      "generated_at": "2026-06-28T05:10:03.327215"
+    },
+    {
+      "english": "Each word, a new door.",
+      "italian": "Ogni parola, una nuova porta.",
+      "category": "Success",
+      "generated_at": "2026-06-28T05:10:03.327216"
+    },
+    {
+      "english": "You are building this skill, brick by brick.",
+      "italian": "Stai costruendo questa abilità, mattone per mattone.",
+      "category": "Success",
+      "generated_at": "2026-06-28T05:10:03.327217"
     }
   ],
-  "last_updated": "2026-06-27T23:09:46.700034"
+  "last_updated": "2026-06-28T05:10:03.327219"
 }
