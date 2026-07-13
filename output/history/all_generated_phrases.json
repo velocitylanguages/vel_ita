@@ -149,7 +149,37 @@
       "italian": "Ascolta la quiete che cresce.",
       "category": "Perseverance",
       "generated_at": "2026-07-13T17:55:16.777051"
+    },
+    {
+      "english": "The path lights up, as you walk.",
+      "italian": "Il sentiero si illumina, mentre cammini.",
+      "category": "Success",
+      "generated_at": "2026-07-13T20:13:42.467881"
+    },
+    {
+      "english": "Each word, a brushstroke.",
+      "italian": "Ogni parola, una pennellata.",
+      "category": "Success",
+      "generated_at": "2026-07-13T20:13:42.467887"
+    },
+    {
+      "english": "The melody forms, note by note.",
+      "italian": "La melodia si forma, nota per nota.",
+      "category": "Success",
+      "generated_at": "2026-07-13T20:13:42.467889"
+    },
+    {
+      "english": "You're weaving your own future.",
+      "italian": "Stai tessendo il tuo futuro.",
+      "category": "Success",
+      "generated_at": "2026-07-13T20:13:42.467890"
+    },
+    {
+      "english": "Taste the progress, in each bite.",
+      "italian": "Assapora il progresso, in ogni morso.",
+      "category": "Success",
+      "generated_at": "2026-07-13T20:13:42.467891"
     }
   ],
-  "last_updated": "2026-07-13T17:55:16.777057"
+  "last_updated": "2026-07-13T20:13:42.467893"
 }
