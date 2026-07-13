@@ -1,1 +1,35 @@
-{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Find your calm, in the gentle breeze.",
+      "italian": "Trova la tua calma, nella brezza leggera.",
+      "category": "Balance",
+      "generated_at": "2026-07-13T04:02:14.269353"
+    },
+    {
+      "english": "The river flows, choose your current.",
+      "italian": "Il fiume scorre, scegli la tua corrente.",
+      "category": "Balance",
+      "generated_at": "2026-07-13T04:02:14.269360"
+    },
+    {
+      "english": "A steady hand, guides the craft.",
+      "italian": "Una mano ferma, guida l'imbarcazione.",
+      "category": "Balance",
+      "generated_at": "2026-07-13T04:02:14.269361"
+    },
+    {
+      "english": "Like a deep root, stay grounded.",
+      "italian": "Come radice profonda, resta radicato.",
+      "category": "Balance",
+      "generated_at": "2026-07-13T04:02:14.269363"
+    },
+    {
+      "english": "Hear the quiet, between the noises.",
+      "italian": "Senti il silenzio, tra i rumori.",
+      "category": "Balance",
+      "generated_at": "2026-07-13T04:02:14.269364"
+    }
+  ],
+  "last_updated": "2026-07-13T04:02:14.269366"
+}
