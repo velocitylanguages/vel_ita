@@ -29,7 +29,37 @@
       "italian": "Senti il silenzio, tra i rumori.",
       "category": "Balance",
       "generated_at": "2026-07-13T04:02:14.269364"
+    },
+    {
+      "english": "Listen to your quiet.",
+      "italian": "Ascolta il tuo silenzio.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-13T04:23:09.841428"
+    },
+    {
+      "english": "Breathe deep, the air is here.",
+      "italian": "Respira a fondo, l'aria c'è.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-13T04:23:09.841438"
+    },
+    {
+      "english": "This moment, is enough.",
+      "italian": "Questo momento, è abbastanza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-13T04:23:09.841439"
+    },
+    {
+      "english": "Observe the stillness, inside you.",
+      "italian": "Osserva la calma, dentro te.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-13T04:23:09.841441"
+    },
+    {
+      "english": "Let thoughts flow, like a stream.",
+      "italian": "Lascia i pensieri, scorrere lievi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-13T04:23:09.841442"
     }
   ],
-  "last_updated": "2026-07-13T04:02:14.269366"
+  "last_updated": "2026-07-13T04:23:09.841444"
 }
