@@ -166,6 +166,7 @@ jobs:
             # Pull with rebase, but tell it to favor OUR changes if there is a conflict
             git pull --rebase -X theirs origin main
             
+            git pull --rebase
             git push
             echo "✅ Phrase history committed and conflicts resolved automatically!"
           else
