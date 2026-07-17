@@ -659,7 +659,37 @@
       "italian": "Stelle lassù, vegliano su di me.",
       "category": "Gratitude",
       "generated_at": "2026-07-17T03:56:26.943212"
+    },
+    {
+      "english": "The mountain awaits, climb it.",
+      "italian": "La montagna aspetta, scalala.",
+      "category": "Success",
+      "generated_at": "2026-07-17T17:11:57.978431"
+    },
+    {
+      "english": "Each seed, a forest grows.",
+      "italian": "Ogni seme, una foresta cresce.",
+      "category": "Success",
+      "generated_at": "2026-07-17T17:11:57.978441"
+    },
+    {
+      "english": "Taste the breeze, find your way.",
+      "italian": "Assaggia la brezza, trova la tua strada.",
+      "category": "Success",
+      "generated_at": "2026-07-17T17:11:57.978442"
+    },
+    {
+      "english": "Let the current carry you.",
+      "italian": "Lascia che la corrente ti porti.",
+      "category": "Success",
+      "generated_at": "2026-07-17T17:11:57.978443"
+    },
+    {
+      "english": "The echo answers, speak out.",
+      "italian": "L'eco risponde, parla.",
+      "category": "Success",
+      "generated_at": "2026-07-17T17:11:57.978444"
     }
   ],
-  "last_updated": "2026-07-17T03:56:26.943214"
+  "last_updated": "2026-07-17T17:11:57.978445"
 }
