@@ -719,7 +719,37 @@
       "italian": "Affronta la tempesta, con occhi calmi.",
       "category": "Strength",
       "generated_at": "2026-07-17T20:05:26.765237"
+    },
+    {
+      "english": "The smallest seed, holds the forest.",
+      "italian": "Il seme più piccolo, contiene la foresta.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-17T22:54:17.218939"
+    },
+    {
+      "english": "Listen to the quiet, it speaks volumes.",
+      "italian": "Ascolta il silenzio, parla tanto.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-17T22:54:17.218948"
+    },
+    {
+      "english": "A steady drip, carves the stone.",
+      "italian": "Una goccia costante, scolpisce la pietra.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-17T22:54:17.218950"
+    },
+    {
+      "english": "The shared bread, tastes sweeter.",
+      "italian": "Il pane condiviso, è più saporito.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-17T22:54:17.218951"
+    },
+    {
+      "english": "Open the window, let in the light.",
+      "italian": "Apri la finestra, fai entrare la luce.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-17T22:54:17.218952"
     }
   ],
-  "last_updated": "2026-07-17T20:05:26.765239"
+  "last_updated": "2026-07-17T22:54:17.218954"
 }
