@@ -1169,7 +1169,37 @@
       "italian": "Trova la scintilla, lasciala brillare.",
       "category": "Confidence",
       "generated_at": "2026-07-20T20:19:45.362996"
+    },
+    {
+      "english": "A gentle current, moves the boat.",
+      "italian": "Una corrente lieve, muove la barca.",
+      "category": "Purpose",
+      "generated_at": "2026-07-20T23:05:08.160207"
+    },
+    {
+      "english": "Today's effort, tomorrow's sun.",
+      "italian": "Lo sforzo di oggi, il sole di domani.",
+      "category": "Purpose",
+      "generated_at": "2026-07-20T23:05:08.160216"
+    },
+    {
+      "english": "Listen to the quiet whisper.",
+      "italian": "Ascolta il sussurro quieto.",
+      "category": "Purpose",
+      "generated_at": "2026-07-20T23:05:08.160218"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "italian": "Costruisci ponti, non muri.",
+      "category": "Purpose",
+      "generated_at": "2026-07-20T23:05:08.160219"
+    },
+    {
+      "english": "The smallest light, shines farthest.",
+      "italian": "La luce più piccola, splende più lontano.",
+      "category": "Purpose",
+      "generated_at": "2026-07-20T23:05:08.160220"
     }
   ],
-  "last_updated": "2026-07-20T20:19:45.362998"
+  "last_updated": "2026-07-20T23:05:08.160222"
 }
