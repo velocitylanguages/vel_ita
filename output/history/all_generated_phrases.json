@@ -1439,7 +1439,37 @@
       "italian": "Gusto del caffè, puro piacere.",
       "category": "Gratitude",
       "generated_at": "2026-07-22T17:20:13.996157"
+    },
+    {
+      "english": "Your voice, a clear bell.",
+      "italian": "La tua voce, una campana chiara.",
+      "category": "Confidence",
+      "generated_at": "2026-07-22T20:10:57.914836"
+    },
+    {
+      "english": "Let ideas bloom, softly.",
+      "italian": "Lascia che le idee sboccino, piano.",
+      "category": "Confidence",
+      "generated_at": "2026-07-22T20:10:57.914845"
+    },
+    {
+      "english": "This moment, your canvas.",
+      "italian": "Questo momento, la tua tela.",
+      "category": "Confidence",
+      "generated_at": "2026-07-22T20:10:57.914846"
+    },
+    {
+      "english": "Each word, a planted seed.",
+      "italian": "Ogni parola, un seme piantato.",
+      "category": "Confidence",
+      "generated_at": "2026-07-22T20:10:57.914847"
+    },
+    {
+      "english": "Breathe deep, speak true.",
+      "italian": "Respira a fondo, parla vero.",
+      "category": "Confidence",
+      "generated_at": "2026-07-22T20:10:57.914848"
     }
   ],
-  "last_updated": "2026-07-22T17:20:13.996159"
+  "last_updated": "2026-07-22T20:10:57.914850"
 }
