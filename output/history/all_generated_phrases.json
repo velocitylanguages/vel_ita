@@ -1679,7 +1679,37 @@
       "italian": "Ogni giorno, una storia nuova.",
       "category": "Confidence",
       "generated_at": "2026-07-23T17:23:01.994928"
+    },
+    {
+      "english": "Breathe in the quiet, exhale the busy.",
+      "italian": "Respira il quieto, espira il caotico.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:11:23.071932"
+    },
+    {
+      "english": "Listen to your own hum, it's a song.",
+      "italian": "Ascolta il tuo ronzio, è una canzone.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:11:23.071943"
+    },
+    {
+      "english": "This moment is a gentle hand, hold it.",
+      "italian": "Questo momento è una mano gentile, tienila.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:11:23.071945"
+    },
+    {
+      "english": "Let thoughts drift like clouds, watch them pass.",
+      "italian": "Lascia i pensieri vagare come nuvole, guardali passare.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:11:23.071946"
+    },
+    {
+      "english": "Find your stillness, amidst the world's spin.",
+      "italian": "Trova la tua quiete, in mezzo al giro del mondo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-23T20:11:23.071947"
     }
   ],
-  "last_updated": "2026-07-23T17:23:01.994930"
+  "last_updated": "2026-07-23T20:11:23.071949"
 }
