@@ -1769,7 +1769,37 @@
       "italian": "Costruisci la tua scala, un gradino alla volta.",
       "category": "Success",
       "generated_at": "2026-07-24T07:18:03.046218"
+    },
+    {
+      "english": "Your voice, it matters.",
+      "italian": "La tua voce, conta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T14:53:20.355671"
+    },
+    {
+      "english": "Listen to your spark, it knows.",
+      "italian": "Ascolta la tua scintilla, lo sa.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T14:53:20.355682"
+    },
+    {
+      "english": "This moment, it's yours.",
+      "italian": "Questo momento, è tuo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T14:53:20.355684"
+    },
+    {
+      "english": "You are the quiet river.",
+      "italian": "Sei il fiume silenzioso.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T14:53:20.355685"
+    },
+    {
+      "english": "The path unfolds, with you.",
+      "italian": "Il cammino si apre, con te.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T14:53:20.355686"
     }
   ],
-  "last_updated": "2026-07-24T07:18:03.046220"
+  "last_updated": "2026-07-24T14:53:20.355688"
 }
