@@ -1889,7 +1889,37 @@
       "italian": "Una scintilla accende un falò.",
       "category": "Courage",
       "generated_at": "2026-07-25T16:57:24.309980"
+    },
+    {
+      "english": "A tiny spark, ignites a fire.",
+      "italian": "Una piccola scintilla, accende un fuoco.",
+      "category": "Hope",
+      "generated_at": "2026-07-25T20:10:05.526071"
+    },
+    {
+      "english": "Tomorrow's sunrise, paints new colors.",
+      "italian": "Il sole di domani, dipinge nuovi colori.",
+      "category": "Hope",
+      "generated_at": "2026-07-25T20:10:05.526081"
+    },
+    {
+      "english": "Each breath, a new possibility.",
+      "italian": "Ogni respiro, una nuova possibilità.",
+      "category": "Hope",
+      "generated_at": "2026-07-25T20:10:05.526083"
+    },
+    {
+      "english": "The quiet morning, holds much promise.",
+      "italian": "La quiete del mattino, porta tanta promessa.",
+      "category": "Hope",
+      "generated_at": "2026-07-25T20:10:05.526084"
+    },
+    {
+      "english": "Open your window, to the light.",
+      "italian": "Apri la tua finestra, alla luce.",
+      "category": "Hope",
+      "generated_at": "2026-07-25T20:10:05.526085"
     }
   ],
-  "last_updated": "2026-07-25T16:57:24.309982"
+  "last_updated": "2026-07-25T20:10:05.526086"
 }
