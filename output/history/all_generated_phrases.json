@@ -2129,7 +2129,37 @@
       "italian": "Oggi, faccio spazio ai progressi.",
       "category": "Confidence",
       "generated_at": "2026-07-27T04:29:51.182033"
+    },
+    {
+      "english": "Light your task, then check again",
+      "italian": "Accendi il compito, poi ricontrolla",
+      "category": "Perseverance",
+      "generated_at": "2026-07-27T15:41:20.028990"
+    },
+    {
+      "english": "Today, finish the rough draft, slowly",
+      "italian": "Oggi, finisci la bozza, piano",
+      "category": "Perseverance",
+      "generated_at": "2026-07-27T15:41:20.029001"
+    },
+    {
+      "english": "Stop rushing, improve one detail",
+      "italian": "Smetti di correre, migliora un dettaglio",
+      "category": "Perseverance",
+      "generated_at": "2026-07-27T15:41:20.029003"
+    },
+    {
+      "english": "Write once, revise it, and breathe",
+      "italian": "Scrivi una volta, rivedi, poi respira",
+      "category": "Perseverance",
+      "generated_at": "2026-07-27T15:41:20.029004"
+    },
+    {
+      "english": "When it hurts, pause, then return",
+      "italian": "Quando fa male, fermati, poi torna",
+      "category": "Perseverance",
+      "generated_at": "2026-07-27T15:41:20.029005"
     }
   ],
-  "last_updated": "2026-07-27T04:29:51.182035"
+  "last_updated": "2026-07-27T15:41:20.029007"
 }
