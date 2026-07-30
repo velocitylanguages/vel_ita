@@ -2519,7 +2519,37 @@
       "italian": "Controllo la postura, e la sicurezza appare.",
       "category": "Confidence",
       "generated_at": "2026-07-30T20:14:18.498742"
+    },
+    {
+      "english": "Inhale slowly, notice the room soften.",
+      "italian": "Inspira piano, nota la stanza ammorbidire.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T23:13:02.911656"
+    },
+    {
+      "english": "Exhale gently, let your shoulders drop.",
+      "italian": "Espira piano, lascia cadere le spalle.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T23:13:02.911665"
+    },
+    {
+      "english": "Feel your feet, as if trees.",
+      "italian": "Senti i piedi, come alberi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T23:13:02.911667"
+    },
+    {
+      "english": "Pause now, listen to your heartbeat.",
+      "italian": "Fermati adesso, ascolta il battito.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T23:13:02.911668"
+    },
+    {
+      "english": "Notice one thought, then wave goodbye.",
+      "italian": "Osserva un pensiero, poi saluta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T23:13:02.911669"
     }
   ],
-  "last_updated": "2026-07-30T20:14:18.498744"
+  "last_updated": "2026-07-30T23:13:02.911671"
 }
