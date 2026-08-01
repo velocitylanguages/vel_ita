@@ -2699,7 +2699,37 @@
       "italian": "Gambe sveglie, cammina con forza.",
       "category": "Strength",
       "generated_at": "2026-07-31T23:08:27.667646"
+    },
+    {
+      "english": "Listen closely, words heal quietly.",
+      "italian": "Ascolta piano, le parole curano in silenzio.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-01T04:17:50.980414"
+    },
+    {
+      "english": "Pause at noon, your mind resets.",
+      "italian": "Fermati a mezzogiorno, la mente riparte.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-01T04:17:50.980423"
+    },
+    {
+      "english": "Choose one task, let distractions drift.",
+      "italian": "Scegli un compito, lascia andare le distrazioni.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-01T04:17:50.980425"
+    },
+    {
+      "english": "Rinse a cup, calm follows automatically.",
+      "italian": "Risciacqua la tazza, la calma arriva da sola.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-01T04:17:50.980426"
+    },
+    {
+      "english": "Say less, you’ll hear more.",
+      "italian": "Parla meno, ascolti di più.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-01T04:17:50.980427"
     }
   ],
-  "last_updated": "2026-07-31T23:08:27.667647"
+  "last_updated": "2026-08-01T04:17:50.980429"
 }
