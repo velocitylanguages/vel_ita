@@ -3029,7 +3029,37 @@
       "italian": "Prova una volta, poi perfeziona con calma.",
       "category": "Confidence",
       "generated_at": "2026-08-03T04:22:57.687867"
+    },
+    {
+      "english": "Breathe out slowly, then stand steady.",
+      "italian": "Espira piano, poi stai saldo.",
+      "category": "Balance",
+      "generated_at": "2026-08-03T15:41:52.507945"
+    },
+    {
+      "english": "Feet on the ground, heart stays calm.",
+      "italian": "Piedi a terra, cuore resta calmo.",
+      "category": "Balance",
+      "generated_at": "2026-08-03T15:41:52.507954"
+    },
+    {
+      "english": "Hold the center, let the noise pass.",
+      "italian": "Tieni il centro, lascia passare il rumore.",
+      "category": "Balance",
+      "generated_at": "2026-08-03T15:41:52.507956"
+    },
+    {
+      "english": "Shoulders down, your balance follows.",
+      "italian": "Spalle giù, il tuo equilibrio arriva.",
+      "category": "Balance",
+      "generated_at": "2026-08-03T15:41:52.507957"
+    },
+    {
+      "english": "One step, pause, feel your weight.",
+      "italian": "Un passo, pausa, senti il peso.",
+      "category": "Balance",
+      "generated_at": "2026-08-03T15:41:52.507958"
     }
   ],
-  "last_updated": "2026-08-03T04:22:57.687868"
+  "last_updated": "2026-08-03T15:41:52.507960"
 }
