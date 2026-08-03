@@ -2999,7 +2999,37 @@
       "italian": "Il bollitore canta, fermati, senti calma",
       "category": "Joy",
       "generated_at": "2026-08-02T23:00:22.785771"
+    },
+    {
+      "english": "Say it softly, your voice grows steadier.",
+      "italian": "Dì piano, la tua voce diventa più ferma.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T04:22:57.687855"
+    },
+    {
+      "english": "Check your breath, then answer the question.",
+      "italian": "Controlla il respiro, poi rispondi alla domanda.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T04:22:57.687864"
+    },
+    {
+      "english": "You’re learning, and that’s already strength.",
+      "italian": "Stai imparando, e quello è già forza.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T04:22:57.687865"
+    },
+    {
+      "english": "Stand still, confidence arrives like morning light.",
+      "italian": "Rimani fermo, la fiducia arriva come luce del mattino.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T04:22:57.687866"
+    },
+    {
+      "english": "Try once, then refine it with calm.",
+      "italian": "Prova una volta, poi perfeziona con calma.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T04:22:57.687867"
     }
   ],
-  "last_updated": "2026-08-02T23:00:22.785772"
+  "last_updated": "2026-08-03T04:22:57.687868"
 }
