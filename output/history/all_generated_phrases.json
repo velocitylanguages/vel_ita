@@ -3059,7 +3059,37 @@
       "italian": "Un passo, pausa, senti il peso.",
       "category": "Balance",
       "generated_at": "2026-08-03T15:41:52.507958"
+    },
+    {
+      "english": "My voice lands, and I breathe calmly.",
+      "italian": "La mia voce arriva, e respiro tranquillo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T17:51:38.763879"
+    },
+    {
+      "english": "I ask one question, then I listen.",
+      "italian": "Faccio una domanda, poi ascolto.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T17:51:38.763889"
+    },
+    {
+      "english": "I choose today, calmly, without second thoughts.",
+      "italian": "Scelgo oggi, con calma, senza dubbi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T17:51:38.763890"
+    },
+    {
+      "english": "My mistakes teach me, softly, every time.",
+      "italian": "I miei errori mi insegnano, piano, ogni volta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T17:51:38.763891"
+    },
+    {
+      "english": "I speak slowly, and my mind clears.",
+      "italian": "Parlo piano, e la mente si schiarisce.",
+      "category": "Confidence",
+      "generated_at": "2026-08-03T17:51:38.763891"
     }
   ],
-  "last_updated": "2026-08-03T15:41:52.507960"
+  "last_updated": "2026-08-03T17:51:38.763892"
 }
