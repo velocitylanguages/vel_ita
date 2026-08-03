@@ -3089,7 +3089,37 @@
       "italian": "Parlo piano, e la mente si schiarisce.",
       "category": "Confidence",
       "generated_at": "2026-08-03T17:51:38.763891"
+    },
+    {
+      "english": "Morning coffee, speak slowly, breathe easy.",
+      "italian": "Caffè del mattino, parla piano, respira tranquillo.",
+      "category": "Growth",
+      "generated_at": "2026-08-03T20:26:25.861853"
+    },
+    {
+      "english": "Open your notebook, listen first, write less.",
+      "italian": "Apri il quaderno, ascolta prima, scrivi meno.",
+      "category": "Growth",
+      "generated_at": "2026-08-03T20:26:25.861862"
+    },
+    {
+      "english": "On the bus, practice words, watch the streets.",
+      "italian": "Sul bus, esercita parole, guarda le strade.",
+      "category": "Growth",
+      "generated_at": "2026-08-03T20:26:25.861864"
+    },
+    {
+      "english": "When you mess up, pause, try again.",
+      "italian": "Se sbagli, fermati, riprova ancora.",
+      "category": "Growth",
+      "generated_at": "2026-08-03T20:26:25.861865"
+    },
+    {
+      "english": "Put your phone down, read one page.",
+      "italian": "Metti via il telefono, leggi una pagina.",
+      "category": "Growth",
+      "generated_at": "2026-08-03T20:26:25.861866"
     }
   ],
-  "last_updated": "2026-08-03T17:51:38.763892"
+  "last_updated": "2026-08-03T20:26:25.861868"
 }
