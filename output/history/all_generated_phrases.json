@@ -3719,7 +3719,37 @@
       "italian": "Ascolto, imparo, poi agisco.",
       "category": "Purpose",
       "generated_at": "2026-08-07T22:42:53.722065"
+    },
+    {
+      "english": "Hear your breath, let thoughts drift past",
+      "italian": "Ascolta il respiro, lascia andare i pensieri",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-08T02:47:45.078401"
+    },
+    {
+      "english": "Hands on your heart, feel the quiet",
+      "italian": "Mani sul cuore, senti la quiete",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-08T02:47:45.078408"
+    },
+    {
+      "english": "Look at the sky, soften your jaw",
+      "italian": "Guarda il cielo, rilassa la mandibola",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-08T02:47:45.078410"
+    },
+    {
+      "english": "Notice your feet, touch the ground gently",
+      "italian": "Osserva i piedi, tocca il suolo piano",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-08T02:47:45.078411"
+    },
+    {
+      "english": "Slowly exhale, like a page turning",
+      "italian": "Espira piano, come una pagina che gira",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-08T02:47:45.078412"
     }
   ],
-  "last_updated": "2026-08-07T22:42:53.722067"
+  "last_updated": "2026-08-08T02:47:45.078414"
 }
