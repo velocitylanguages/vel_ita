@@ -3869,7 +3869,37 @@
       "italian": "La caffettiera canta, rallento, sorrido.",
       "category": "Happiness",
       "generated_at": "2026-08-08T22:35:11.589021"
+    },
+    {
+      "english": "Wait, let the kettle sing softly.",
+      "italian": "Aspetta, lascia cantare piano il bollitore.",
+      "category": "Patience",
+      "generated_at": "2026-08-09T02:55:22.459311"
+    },
+    {
+      "english": "Breathe in, the garden needs time.",
+      "italian": "Inspira, il giardino ha bisogno di tempo.",
+      "category": "Patience",
+      "generated_at": "2026-08-09T02:55:22.459321"
+    },
+    {
+      "english": "Slow down, the road will open.",
+      "italian": "Rallenta, la strada si aprirà.",
+      "category": "Patience",
+      "generated_at": "2026-08-09T02:55:22.459323"
+    },
+    {
+      "english": "Pause, your thoughts will settle down.",
+      "italian": "Fermati, i pensieri si poseranno.",
+      "category": "Patience",
+      "generated_at": "2026-08-09T02:55:22.459324"
+    },
+    {
+      "english": "Let it simmer, life warms up slowly.",
+      "italian": "Falla sobbollire, la vita si scalda piano.",
+      "category": "Patience",
+      "generated_at": "2026-08-09T02:55:22.459325"
     }
   ],
-  "last_updated": "2026-08-08T22:35:11.589023"
+  "last_updated": "2026-08-09T02:55:22.459327"
 }
