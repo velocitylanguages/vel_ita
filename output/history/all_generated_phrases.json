@@ -4469,7 +4469,37 @@
       "italian": "Io innaffio le piante, e il mio umore si sveglia.",
       "category": "Joy",
       "generated_at": "2026-08-12T22:48:55.650160"
+    },
+    {
+      "english": "I can pause, then choose again.",
+      "italian": "Posso fermarmi, poi scegliere di nuovo.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T03:20:52.813509"
+    },
+    {
+      "english": "My voice is enough, right now.",
+      "italian": "La mia voce basta, adesso.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T03:20:52.813519"
+    },
+    {
+      "english": "I test my limits, calmly.",
+      "italian": "Provo i miei limiti, con calma.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T03:20:52.813521"
+    },
+    {
+      "english": "Even mistakes teach me, quietly.",
+      "italian": "Gli errori mi insegnano, piano.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T03:20:52.813522"
+    },
+    {
+      "english": "I walk forward, despite the noise.",
+      "italian": "Cammino avanti, nonostante il rumore.",
+      "category": "Confidence",
+      "generated_at": "2026-08-13T03:20:52.813523"
     }
   ],
-  "last_updated": "2026-08-12T22:48:55.650161"
+  "last_updated": "2026-08-13T03:20:52.813525"
 }
