@@ -4499,7 +4499,37 @@
       "italian": "Cammino avanti, nonostante il rumore.",
       "category": "Confidence",
       "generated_at": "2026-08-13T03:20:52.813523"
+    },
+    {
+      "english": "Today, choose the harder hallway, quietly.",
+      "italian": "Oggi, scegli il corridoio più difficile, in silenzio.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T14:21:42.314913"
+    },
+    {
+      "english": "Courage, like warm bread, lifts the room.",
+      "italian": "Coraggio, come pane caldo, scalda la stanza.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T14:21:42.314944"
+    },
+    {
+      "english": "When fear knocks, answer with a smile.",
+      "italian": "Quando la paura bussa, rispondi con un sorriso.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T14:21:42.314945"
+    },
+    {
+      "english": "Speak up, even with shaky words.",
+      "italian": "Parla chiaro, anche con parole tremanti.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T14:21:42.314947"
+    },
+    {
+      "english": "Step forward, even if the floor creaks.",
+      "italian": "Avanza, anche se il pavimento scricchiola.",
+      "category": "Courage",
+      "generated_at": "2026-08-13T14:21:42.314948"
     }
   ],
-  "last_updated": "2026-08-13T03:20:52.813525"
+  "last_updated": "2026-08-13T14:21:42.314949"
 }
