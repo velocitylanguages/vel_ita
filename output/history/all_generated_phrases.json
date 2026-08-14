@@ -4619,7 +4619,37 @@
       "italian": "Prima di correre, controlla il respiro.",
       "category": "Wisdom",
       "generated_at": "2026-08-13T22:50:04.532817"
+    },
+    {
+      "english": "Wake up early, chase quiet mornings",
+      "italian": "Sveglia presto, insegui mattine silenziose",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T03:18:01.569661"
+    },
+    {
+      "english": "Choose one task, finish it before lunch",
+      "italian": "Scegli un compito, finiscilo prima di pranzo",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T03:18:01.569671"
+    },
+    {
+      "english": "Write one line, name your next move",
+      "italian": "Scrivi una riga, dai un nome alla prossima mossa",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T03:18:01.569673"
+    },
+    {
+      "english": "Ask, then listen, let answers land",
+      "italian": "Chiedi, poi ascolta, fai cadere risposte",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T03:18:01.569674"
+    },
+    {
+      "english": "Turn doubt into data, measure what matters",
+      "italian": "Trasforma il dubbio in dati, misura ciò che conta",
+      "category": "Purpose",
+      "generated_at": "2026-08-14T03:18:01.569676"
     }
   ],
-  "last_updated": "2026-08-13T22:50:04.532819"
+  "last_updated": "2026-08-14T03:18:01.569677"
 }
