@@ -5579,7 +5579,37 @@
       "italian": "Nei giorni brutti, mi illumini.",
       "category": "Friendship",
       "generated_at": "2026-08-20T16:35:10.252403"
+    },
+    {
+      "english": "I claim my space, today",
+      "italian": "Io prendo spazio, oggi",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T19:29:30.661881"
+    },
+    {
+      "english": "My voice steadies, each morning",
+      "italian": "La mia voce si calma, ogni mattina",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T19:29:30.661894"
+    },
+    {
+      "english": "I choose brave words, softly",
+      "italian": "Scelgo parole coraggiose, piano",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T19:29:30.661896"
+    },
+    {
+      "english": "I listen first, then answer",
+      "italian": "Ascolto prima, poi rispondo",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T19:29:30.661897"
+    },
+    {
+      "english": "I trust my pace, not speed",
+      "italian": "Fidandomi del mio ritmo, non della velocità",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T19:29:30.661898"
     }
   ],
-  "last_updated": "2026-08-20T16:35:10.252404"
+  "last_updated": "2026-08-20T19:29:30.661900"
 }
