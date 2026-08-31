@@ -7139,7 +7139,37 @@
       "italian": "Faccio una domanda, e la porta si apre.",
       "category": "Confidence",
       "generated_at": "2026-08-31T00:20:45.339472"
+    },
+    {
+      "english": "Coffee cools, my thoughts slow down.",
+      "italian": "Il caffè si raffredda, i pensieri rallentano.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-31T06:19:46.479550"
+    },
+    {
+      "english": "Breathe in, let the day pass gently.",
+      "italian": "Inspira, lascia scorrere la giornata.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-31T06:19:46.479559"
+    },
+    {
+      "english": "Step outside, the sky listens quietly.",
+      "italian": "Esci fuori, il cielo ascolta piano.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-31T06:19:46.479560"
+    },
+    {
+      "english": "Hands unclench, peace finds its place.",
+      "italian": "Le mani si aprono, la pace arriva.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-31T06:19:46.479562"
+    },
+    {
+      "english": "A spoon stirs, my mind returns.",
+      "italian": "Un cucchiaio gira, la mente torna.",
+      "category": "Inner Peace",
+      "generated_at": "2026-08-31T06:19:46.479563"
     }
   ],
-  "last_updated": "2026-08-31T00:20:45.339474"
+  "last_updated": "2026-08-31T06:19:46.479564"
 }
