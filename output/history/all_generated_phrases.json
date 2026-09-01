@@ -7409,7 +7409,37 @@
       "italian": "Mani calme, il tempo lavora.",
       "category": "Patience",
       "generated_at": "2026-09-01T21:36:30.447159"
+    },
+    {
+      "english": "Courage arrives, after you lock the door.",
+      "italian": "Il coraggio arriva, dopo che chiudi la porta.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T23:55:07.267102"
+    },
+    {
+      "english": "Say it, even when your voice trembles.",
+      "italian": "Dillo, anche quando la voce trema.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T23:55:07.267114"
+    },
+    {
+      "english": "Take one breath, before you step forward.",
+      "italian": "Fai un respiro, prima di avanzare.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T23:55:07.267116"
+    },
+    {
+      "english": "Your fear knocks, you open anyway.",
+      "italian": "La paura bussa, tu apri lo stesso.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T23:55:07.267117"
+    },
+    {
+      "english": "Stand still, let the storm pass by.",
+      "italian": "Resta fermo, lascia passare la tempesta.",
+      "category": "Courage",
+      "generated_at": "2026-09-01T23:55:07.267118"
     }
   ],
-  "last_updated": "2026-09-01T21:36:30.447161"
+  "last_updated": "2026-09-01T23:55:07.267120"
 }
