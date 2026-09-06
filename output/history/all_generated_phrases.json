@@ -8129,7 +8129,37 @@
       "italian": "Offro una risata, la stanza si illumina.",
       "category": "Happiness",
       "generated_at": "2026-09-06T18:03:44.012397"
+    },
+    {
+      "english": "Aim low, so mornings feel friendly",
+      "italian": "Punta basso, così le mattine sono gentili",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T21:03:14.950850"
+    },
+    {
+      "english": "Choose one task, let the rest wait",
+      "italian": "Scegli un compito, il resto aspetta",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T21:03:14.950859"
+    },
+    {
+      "english": "Quiet focus, your day straightens out",
+      "italian": "Concentrati piano, la giornata si raddrizza",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T21:03:14.950860"
+    },
+    {
+      "english": "Make room for mistakes, then refine",
+      "italian": "Lascia spazio agli errori, poi migliora",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T21:03:14.950862"
+    },
+    {
+      "english": "Read a page, let curiosity lead",
+      "italian": "Leggi una pagina, lascia guidare la curiosità",
+      "category": "Purpose",
+      "generated_at": "2026-09-06T21:03:14.950863"
     }
   ],
-  "last_updated": "2026-09-06T18:03:44.012399"
+  "last_updated": "2026-09-06T21:03:14.950864"
 }
