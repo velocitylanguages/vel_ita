@@ -8549,7 +8549,37 @@
       "italian": "Vado avanti, con calma dentro",
       "category": "Confidence",
       "generated_at": "2026-09-09T17:02:32.187143"
+    },
+    {
+      "english": "I thank mornings, they start my day kindly",
+      "italian": "Ringrazio le mattine, mi danno un giorno gentile",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T19:06:36.608083"
+    },
+    {
+      "english": "Thanks for quiet, it lets me listen",
+      "italian": "Grazie per il silenzio, mi fa ascoltare",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T19:06:36.608093"
+    },
+    {
+      "english": "I’m grateful for warm tea, it steadies me",
+      "italian": "Sono grato per il tè caldo, mi calma",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T19:06:36.608095"
+    },
+    {
+      "english": "Thank you for small kindnesses, they find me",
+      "italian": "Grazie per le piccole cortesie, mi raggiungono",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T19:06:36.608096"
+    },
+    {
+      "english": "I appreciate rain, it washes my worries",
+      "italian": "Apprezzo la pioggia, lava le mie preoccupazioni",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T19:06:36.608097"
     }
   ],
-  "last_updated": "2026-09-09T17:02:32.187144"
+  "last_updated": "2026-09-09T19:06:36.608099"
 }
