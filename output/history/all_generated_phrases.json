@@ -8489,7 +8489,37 @@
       "italian": "Pulisci un angolo, fai spazio al cambiamento.",
       "category": "Purpose",
       "generated_at": "2026-09-08T23:58:04.611898"
+    },
+    {
+      "english": "Say “ciao”, I’m here, always.",
+      "italian": "Dici “ciao”, ci sono, sempre.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T05:27:19.139245"
+    },
+    {
+      "english": "We share laughs, like sunny morning coffee.",
+      "italian": "Ci facciamo risate, come un caffè mattutino.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T05:27:19.139254"
+    },
+    {
+      "english": "Your message arrives, my day softens.",
+      "italian": "Il tuo messaggio arriva, e il giorno si addolcisce.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T05:27:19.139255"
+    },
+    {
+      "english": "We trade advice, then we eat snacks.",
+      "italian": "Scambiamo consigli, poi mangiamo snack.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T05:27:19.139256"
+    },
+    {
+      "english": "Hold my secrets, I trust your silence.",
+      "italian": "Custodisci i miei segreti, io mi fido del tuo silenzio.",
+      "category": "Friendship",
+      "generated_at": "2026-09-09T05:27:19.139257"
     }
   ],
-  "last_updated": "2026-09-08T23:58:04.611900"
+  "last_updated": "2026-09-09T05:27:19.139259"
 }
