@@ -9449,7 +9449,37 @@
       "italian": "Rispondi alla chiamata, poi riposa la mente",
       "category": "Success",
       "generated_at": "2026-09-15T17:28:57.002187"
+    },
+    {
+      "english": "Wait, let the kettle cool first",
+      "italian": "Aspetta, lascia raffreddare prima il bollitore",
+      "category": "Patience",
+      "generated_at": "2026-09-15T19:32:52.996061"
+    },
+    {
+      "english": "Slow down, the street clears by itself",
+      "italian": "Rallenta, la strada si libera da sola",
+      "category": "Patience",
+      "generated_at": "2026-09-15T19:32:52.996073"
+    },
+    {
+      "english": "Breathe, the answer arrives like mail",
+      "italian": "Respira, la risposta arriva come posta",
+      "category": "Patience",
+      "generated_at": "2026-09-15T19:32:52.996074"
+    },
+    {
+      "english": "Hold steady, rivers find their route",
+      "italian": "Tieniti saldo, i fiumi trovano il loro corso",
+      "category": "Patience",
+      "generated_at": "2026-09-15T19:32:52.996075"
+    },
+    {
+      "english": "Be patient, chalk dust settles on floors",
+      "italian": "Sii paziente, la polvere di gesso scende",
+      "category": "Patience",
+      "generated_at": "2026-09-15T19:32:52.996076"
     }
   ],
-  "last_updated": "2026-09-15T17:28:57.002188"
+  "last_updated": "2026-09-15T19:32:52.996077"
 }
