@@ -10409,7 +10409,37 @@
       "italian": "Ogni giorno, metti un altro mattone nel tempo.",
       "category": "Perseverance",
       "generated_at": "2026-09-21T22:27:22.222847"
+    },
+    {
+      "english": "Courage knocks, answer, even quietly",
+      "italian": "Il coraggio bussa, rispondi, anche piano",
+      "category": "Courage",
+      "generated_at": "2026-09-22T00:40:38.381862"
+    },
+    {
+      "english": "Fear talks, you listen, then act",
+      "italian": "La paura parla, tu ascolti, poi agisci",
+      "category": "Courage",
+      "generated_at": "2026-09-22T00:40:38.381872"
+    },
+    {
+      "english": "Today, step forward, with shaky hands",
+      "italian": "Oggi avanza, con mani tremanti",
+      "category": "Courage",
+      "generated_at": "2026-09-22T00:40:38.381873"
+    },
+    {
+      "english": "Hold your breath, and cross anyway",
+      "italian": "Tieni il fiato, e attraversa lo stesso",
+      "category": "Courage",
+      "generated_at": "2026-09-22T00:40:38.381874"
+    },
+    {
+      "english": "Courage tastes like rain, not thunder",
+      "italian": "Il coraggio sa di pioggia, non di tuono",
+      "category": "Courage",
+      "generated_at": "2026-09-22T00:40:38.381875"
     }
   ],
-  "last_updated": "2026-09-21T22:27:22.222848"
+  "last_updated": "2026-09-22T00:40:38.381876"
 }
