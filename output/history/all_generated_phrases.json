@@ -11969,7 +11969,37 @@
       "italian": "I dubbi scivolano via, come nuvole mattutine.",
       "category": "Confidence",
       "generated_at": "2026-10-02T06:22:23.723972"
+    },
+    {
+      "english": "Hold the door, let them pass calmly.",
+      "italian": "Tieni la porta, lasciali passare con calma.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T18:13:06.576789"
+    },
+    {
+      "english": "Share your pen, it lightens the desk.",
+      "italian": "Condividi la penna, alleggerisce la scrivania.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T18:13:06.576798"
+    },
+    {
+      "english": "Say please, even when you’re in a hurry.",
+      "italian": "Di’ per favore, anche se hai fretta.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T18:13:06.576799"
+    },
+    {
+      "english": "Smile first, kindness returns like warm bread.",
+      "italian": "Sorri prima, la gentilezza torna come pane caldo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T18:13:06.576800"
+    },
+    {
+      "english": "Ask, “Are you okay?”, then really listen.",
+      "italian": "Chiedi, “Va tutto bene?”, poi ascolta davvero.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T18:13:06.576801"
     }
   ],
-  "last_updated": "2026-10-02T06:22:23.723973"
+  "last_updated": "2026-10-02T18:13:06.576803"
 }
