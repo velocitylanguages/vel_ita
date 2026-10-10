@@ -13139,7 +13139,37 @@
       "italian": "Lascio passare gli errori, come nuvole.",
       "category": "Confidence",
       "generated_at": "2026-10-10T01:36:07.550841"
+    },
+    {
+      "english": "Joy is my morning coffee, quiet and warm",
+      "italian": "La gioia è il mio caffè del mattino, quieto e caldo",
+      "category": "Joy",
+      "generated_at": "2026-10-10T06:29:52.465655"
+    },
+    {
+      "english": "I hum softly, the day turns friendlier",
+      "italian": "Io canticchio piano, la giornata diventa più amica",
+      "category": "Joy",
+      "generated_at": "2026-10-10T06:29:52.465667"
+    },
+    {
+      "english": "Smile first, then my worries loosen up",
+      "italian": "Sorrido prima, poi le mie preoccupazioni mollano",
+      "category": "Joy",
+      "generated_at": "2026-10-10T06:29:52.465668"
+    },
+    {
+      "english": "Even laundry sings, when I breathe slowly",
+      "italian": "Anche il bucato canta, quando respiro piano",
+      "category": "Joy",
+      "generated_at": "2026-10-10T06:29:52.465669"
+    },
+    {
+      "english": "I taste joy, like fruit on my tongue",
+      "italian": "Assaggio la gioia, come frutta sulla lingua",
+      "category": "Joy",
+      "generated_at": "2026-10-10T06:29:52.465670"
     }
   ],
-  "last_updated": "2026-10-10T01:36:07.550842"
+  "last_updated": "2026-10-10T06:29:52.465672"
 }
