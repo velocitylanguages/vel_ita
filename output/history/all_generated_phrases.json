@@ -13739,7 +13739,37 @@
       "italian": "I miei piani seguono il mio ritmo, non l’orologio.",
       "category": "Confidence",
       "generated_at": "2026-10-13T23:12:10.954487"
+    },
+    {
+      "english": "Morning light, I choose hope again.",
+      "italian": "Luce del mattino, scelgo la speranza ancora.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T01:02:31.586785"
+    },
+    {
+      "english": "Coffee cools, my heart stays warm.",
+      "italian": "Il caffè si raffredda, il mio cuore resta caldo.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T01:02:31.586796"
+    },
+    {
+      "english": "Rain on windows, I wait softly.",
+      "italian": "Pioggia sui vetri, io aspetto piano.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T01:02:31.586797"
+    },
+    {
+      "english": "A bus sighs, I’m not stuck.",
+      "italian": "Un autobus sospira, non sono bloccato.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T01:02:31.586798"
+    },
+    {
+      "english": "My notebook opens, new paths appear.",
+      "italian": "Il taccuino si apre, compaiono nuovi sentieri.",
+      "category": "Hope",
+      "generated_at": "2026-10-14T01:02:31.586799"
     }
   ],
-  "last_updated": "2026-10-13T23:12:10.954489"
+  "last_updated": "2026-10-14T01:02:31.586801"
 }
