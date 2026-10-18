@@ -14399,7 +14399,37 @@
       "italian": "Fermo un attimo, penso, poi scelgo.",
       "category": "Confidence",
       "generated_at": "2026-10-18T05:14:14.687404"
+    },
+    {
+      "english": "Breathe in, notice shoulders softening, exhale slowly.",
+      "italian": "Inspira, nota le spalle che si ammorbidiscono, espira piano.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-18T16:21:03.902573"
+    },
+    {
+      "english": "I pause now, thoughts float by like clouds.",
+      "italian": "Io mi fermo adesso, i pensieri passano come nuvole.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-18T16:21:03.902584"
+    },
+    {
+      "english": "Listen to sounds, let the room speak.",
+      "italian": "Ascolta i suoni, lascia parlare la stanza.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-18T16:21:03.902586"
+    },
+    {
+      "english": "Feel your feet, steady as stones in water.",
+      "italian": "Senti i piedi, fermi come pietre nell’acqua.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-18T16:21:03.902587"
+    },
+    {
+      "english": "Name the feeling, gently, without chasing it.",
+      "italian": "Dai un nome al sentimento, dolcemente, senza inseguirlo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-18T16:21:03.902588"
     }
   ],
-  "last_updated": "2026-10-18T05:14:14.687405"
+  "last_updated": "2026-10-18T16:21:03.902589"
 }
