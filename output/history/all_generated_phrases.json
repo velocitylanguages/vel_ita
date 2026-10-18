@@ -14429,7 +14429,37 @@
       "italian": "Dai un nome al sentimento, dolcemente, senza inseguirlo.",
       "category": "Mindfulness",
       "generated_at": "2026-10-18T16:21:03.902588"
+    },
+    {
+      "english": "Hold still, breathe slow, check your balance.",
+      "italian": "Resta fermo, respira piano, controlla l’equilibrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-18T18:28:36.709648"
+    },
+    {
+      "english": "Feel the floor, shift your weight gently.",
+      "italian": "Senti il pavimento, sposta il peso con delicatezza.",
+      "category": "Balance",
+      "generated_at": "2026-10-18T18:28:36.709656"
+    },
+    {
+      "english": "Left, right, breathe out, then stand tall.",
+      "italian": "Sinistra, destra, espira, poi raddrizza.",
+      "category": "Balance",
+      "generated_at": "2026-10-18T18:28:36.709657"
+    },
+    {
+      "english": "When you sway, return to center.",
+      "italian": "Se ti dondoli, torna al centro.",
+      "category": "Balance",
+      "generated_at": "2026-10-18T18:28:36.709657"
+    },
+    {
+      "english": "Eyes forward, shoulders down, stay steady.",
+      "italian": "Sguardo avanti, spalle giù, resta stabile.",
+      "category": "Balance",
+      "generated_at": "2026-10-18T18:28:36.709658"
     }
   ],
-  "last_updated": "2026-10-18T16:21:03.902589"
+  "last_updated": "2026-10-18T18:28:36.709659"
 }
