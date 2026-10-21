@@ -100,153 +100,182 @@ def save_phrase_history(data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    """Check if phrase was already generated"""
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
+THEME_ANGLES = [
+    "morning light and first thoughts", "quiet moments before dawn", "evening reflections",
+    "strolling through quiet streets", "rain falling on windows", "fresh scent of morning breeze",
+    "hidden mountain paths", "listening to ocean waves", "gentle silence of the forest",
+    "stars across an open sky", "a warm cup of tea", "artisan craftsmanship and detail",
+    "turning the page of a book", "curiosity and quiet wonder", "unfolding pathways in life",
+    "patience and steady progress", "carrying kindness forward", "stepping into unfamiliar places",
+    "listening closely to others", "the rhythm of walking", "rediscovering simple daily joys",
+    "memories that bring a smile", "unspoken bonds between friends", "sharing laughter with family",
+    "observing city lights from afar", "watching clouds slowly shift", "a sudden burst of courage",
+    "trusting your own rhythm", "finding calm in a busy room", "small daily acts of devotion",
+    "sunlight through autumn leaves", "spring flowers pushing through stone", "winter hearth and warmth",
+    "deep breaths before beginning", "letting go of yesterday's noise", "clarity found in stillness",
+    "the steady tick of the clock", "a compass pointing true north", "crossing an ancient stone bridge",
+    "whispers of the night wind", "ripples across a calm lake", "the courage to try once more",
+    "honest words spoken softly", "discovering beauty in imperfections", "savoring an unhurried morning",
+    "gentle advice for a tired mind", "a friendly face in the crowd", "noticing color in mundane things",
+    "the peaceful silence after dusk", "asking genuine questions", "finding shelter from the storm"
+]
 
 
-def add_phrases_to_history(phrases, category):
-    """Add new phrases to history"""
+def get_used_phrases_set() -> set:
+    """Load all historical phrases into a set for fast O(1) deduplication"""
     history = load_phrase_history()
-    for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "italian": phrase["italian"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
-    save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    return {
+        p.get("english", "").lower().strip().rstrip(".!?,")
+        for p in history.get("phrases", [])
+        if isinstance(p, dict) and p.get("english")
+    }
+
+
+def is_phrase_used(english_phrase: str, used_set: set = None) -> bool:
+    """Check if phrase was already generated (O(1) if used_set is provided)"""
+    if not english_phrase:
+        return True
+    cleaned = english_phrase.lower().strip().rstrip(".!?,")
+    if used_set is not None:
+        return cleaned in used_set
+    return cleaned in get_used_phrases_set()
 
 
 # ============== CONTENT GENERATION ==============
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    """Generate unique bilingual phrases with natural pauses, ensuring no repeats"""
+    """Generate 100% unique, fresh Italian phrases via AI with cumulative retries and no hardcoded fallbacks."""
+    import time
+    import requests
+    import random
 
-    category_italian = CATEGORIES_ITALIAN[category_english]
+    category_native = CATEGORIES_ITALIAN.get(category_english, category_english)
+    used_phrases = get_used_phrases_set()
+    collected_unique_phrases = []
 
-    # Try AI first
-    max_attempts = 3
+    url = "https://gen.pollinations.ai/v1/chat/completions"
+    max_attempts = 5
+
     for attempt in range(max_attempts):
+        needed = num_phrases - len(collected_unique_phrases)
+        if needed <= 0:
+            break
+
+        if attempt > 0:
+            backoff = min(2 * attempt, 10)
+            print(f"[content] Retry attempt {attempt + 1}/{max_attempts} (waiting {backoff}s, need {needed} more)...")
+            time.sleep(backoff)
+
+        # Vary thematic seed on each attempt to ensure novel concepts and vocabulary
+        seed_theme = random.choice(THEME_ANGLES)
+        request_count = max(needed * 5, 25)
+
+        headers = {"Content-Type": "application/json"}
+        params = {}
+        if POLLINATIONS_API_KEY:
+            if attempt % 2 == 0:
+                headers["Authorization"] = f"Bearer {POLLINATIONS_API_KEY}"
+            else:
+                params["key"] = POLLINATIONS_API_KEY
+
+        prompt = f"""Generate {request_count} SHORT, CREATIVE, UNIQUE {category_english} phrases for English speakers learning Italian.
+Inspiration theme: "{seed_theme}". Connect each phrase to this theme (metaphorically, literally, or in daily life).
+
+CRITICAL RULES:
+1. Each phrase MUST be COMPLETELY UNIQUE and NEVER repeat common cliché phrases.
+2. Short: 3 to 10 words per language.
+3. Natural pauses: use commas for breathing room in text-to-speech (e.g. "Wake early, plan one small step").
+4. Authentic Italian: natural, everyday phrasing (natural Italian phrasing with accents).
+5. AVOID clichés: Do NOT output basic greetings (hello, thank you, goodbye) or cliché slogans ("believe in yourself", "dream big", "never give up", "small steps").
+6. Vary phrase types: reflections, gentle observations, questions, quiet advice.
+
+Return as a JSON array of objects:
+[{"english": "...", "italian": "...", "pronunciation": "..."}]
+
+Return ONLY valid JSON array."""
+
+        payload = {
+            "model": AI_MODEL or "gemini-fast",
+            "messages": [
+                {"role": "system", "content": "You are a master Italian language teacher. Produce creative, diverse, natural phrases. Return ONLY valid JSON."},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": round(random.uniform(1.1, 1.25), 2),
+            "seed": random.randint(1, 999999)
+        }
+
         try:
-            import requests
-            url = "https://gen.pollinations.ai/v1/chat/completions"
-            headers = {
-                "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
-                "Content-Type": "application/json"
-            }
-
-            prompt = f"""Create {num_phrases * 3} unique {category_english} phrases for English speakers learning Italian.
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-
-CRITICAL: These phrases must be COMPLETELY NEW and DIFFERENT from common motivational phrases.
-- Avoid: "Believe in yourself", "Dream big", "Never give up", "Keep going", "Small steps"
-- Create: Fresh, original phrases with unique imagery and metaphors
-- Use: Different sentence structures, questions, observations about daily life
-
-For each phrase:
-1. English phrase (with commas for natural pauses)
-2. Italian translation (with commas matching the rhythm)
-3. Pronunciation guide (phonetic for English speakers)
-
-Return as JSON array:
-[{{"english": "...", "italian": "...", "pronunciation": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before. Be creative!"""
-
-            payload = {
-                "model": AI_MODEL,
-                "messages": [
-                    {"role": "system", "content": "You are an Italian teacher. Create short, natural phrases with pauses."},
-                    {"role": "user", "content": prompt}
-                ],
-                "temperature": 1.2,
-                "seed": random.randint(1, 1000000)
-            }
-
-            print(f"[content] Attempt {attempt + 1}: Calling API...")
-            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            auth_info = "Bearer" if "Authorization" in headers else "query_param"
+            print(f"[content] Calling AI (model={AI_MODEL or 'gemini-fast'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
+            response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
+            
+            if response.status_code == 401 and attempt < max_attempts - 1:
+                print(f"[content] Auth failed with {auth_info}, will alternate on next attempt...")
+                continue
             response.raise_for_status()
 
             data = response.json()
             content = data["choices"][0]["message"]["content"].strip()
-            
-            print(f"[content] Raw API response: {content[:200]}...")
 
-            # Extract JSON
-            if "```json" in content:
-                content = content.split("```json")[1].split("```")[0].strip()
-            elif "```" in content:
-                content = content.split("```")[1].split("```")[0].strip()
+            # Clean markdown code blocks
+            json_content = content
+            if "```json" in json_content:
+                json_content = json_content.split("```json")[1].split("```")[0].strip()
+            elif "```" in json_content:
+                json_content = json_content.split("```")[1].split("```")[0].strip()
 
-            phrases = json.loads(content)
-            print(f"[content] Parsed {len(phrases)} phrases from JSON")
+            if not json_content.startswith("["):
+                idx = json_content.find("[")
+                if idx >= 0:
+                    json_content = json_content[idx:]
+            if not json_content.endswith("]"):
+                idx = json_content.rfind("]")
+                if idx >= 0:
+                    json_content = json_content[:idx + 1]
 
-            # Filter out already-used phrases and ensure proper length
-            unique_phrases = []
-            skipped_long = 0
-            skipped_used = 0
+            # Remove any trailing commas before closing brackets
+            json_content = re.sub(r',\s*([\]\}])', r'\1', json_content)
+
+            phrases = json.loads(json_content)
+            print(f"[content] Parsed {len(phrases)} candidate phrases from AI")
+
             for phrase in phrases:
-                # Skip if too long (over 15 words)
-                if len(phrase["english"].split()) > 15:
-                    skipped_long += 1
+                if not isinstance(phrase, dict):
                     continue
-                if is_phrase_used(phrase["english"]):
-                    skipped_used += 1
-                    print(f"[content] Skipping duplicate: {phrase['english']}")
+                if not all(k in phrase for k in ["english", "italian", "pronunciation"]):
                     continue
-                unique_phrases.append(phrase)
-                if len(unique_phrases) >= num_phrases:
+                en_text = phrase["english"].strip()
+                if not en_text:
+                    continue
+                if len(en_text.split()) > 15:
+                    continue
+                
+                clean_key = en_text.lower().rstrip(".!?,")
+                if clean_key not in used_phrases:
+                    collected_unique_phrases.append(phrase)
+                    used_phrases.add(clean_key)
+                    print(f"  + Added fresh phrase: {en_text}")
+
+                if len(collected_unique_phrases) >= num_phrases:
                     break
 
-            print(f"[content] Got {len(unique_phrases)} valid phrases (skipped: {skipped_long} too long, {skipped_used} duplicates)")
-
-            if len(unique_phrases) >= num_phrases:
-                add_phrases_to_history(unique_phrases[:num_phrases], category_english)
-                return unique_phrases[:num_phrases]
-            else:
-                print(f"[content] Only got {len(unique_phrases)} phrases, need {num_phrases}, trying again...")
+            print(f"[content] Total unique phrases gathered so far: {len(collected_unique_phrases)}/{num_phrases}")
 
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
-    # Fallback to fresh phrases
-    print("[content] Using fallback phrases...")
-    return get_fresh_fallback_phrases(category_english, num_phrases)
+    if len(collected_unique_phrases) < min(num_phrases, 3):
+        raise RuntimeError(
+            f"AI generation failed to retrieve enough unique phrases (gathered {len(collected_unique_phrases)}/{num_phrases}). "
+            f"Phrase history preserved; no hardcoded fallbacks used."
+        )
 
+    final_phrases = collected_unique_phrases[:num_phrases]
+    if len(final_phrases) < num_phrases:
+        print(f"[content] ⚠️ Proceeding with {len(final_phrases)} unique fresh phrases (requested {num_phrases}).")
 
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    """Get fallback phrases, filtering out used ones"""
-
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "italian": "Credi in te stesso.", "pronunciation": "KREH-dee in teh STEH-sso."},
-            {"english": "You are capable of amazing things.", "italian": "Sei capace di cose straordinarie.", "pronunciation": "SAY kah-PAH-cheh dee KOH-zeh stra-or-dee-NAH-ree-eh."},
-            {"english": "Dream big, start small.", "italian": "Sogna in grande, inizia in piccolo.", "pronunciation": "SOH-nyah in GRAHN-deh, ee-NEE-tseeah in PEEK-koh-loh."},
-            {"english": "Your future is created by your actions.", "italian": "Il tuo futuro è creato dalle tue azioni.", "pronunciation": "EEL TOO-oh foo-TOO-roh eh kreh-AH-toh DAHL-leh too-eh ah-TSYOH-nee."},
-            {"english": "Never give up on your dreams.", "italian": "Non arrenderti mai ai tuoi sogni.", "pronunciation": "Nohn ah-RREN-dehr-teh my ah-ee TOO-oy SOH-nyee."},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "italian": "Ama te stesso per primo.", "pronunciation": "AH-mah teh STEH-sso pehr PREE-moh."},
-            {"english": "Love makes everything possible.", "italian": "L'amore rende tutto possibile.", "pronunciation": "Lah-MOH-reh REHN-deh TOOT-toh pohs-SEE-bee-leh."},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    fresh_phrases = [p for p in fallbacks if not is_phrase_used(p["english"])]
-    return fresh_phrases[:num_phrases]
+    add_phrases_to_history(final_phrases, category_english)
+    return final_phrases
 
 
 # ============== AUDIO GENERATION ==============
