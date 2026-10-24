@@ -4,6 +4,7 @@ IMPROVED VERSION: Better backgrounds, English categories, no repeats, Velocity I
 """
 
 import os
+import re
 import sys
 import json
 import random
@@ -141,6 +142,23 @@ def is_phrase_used(english_phrase: str, used_set: set = None) -> bool:
     return cleaned in get_used_phrases_set()
 
 
+def add_phrases_to_history(phrases, category):
+    """Add new phrases to history"""
+    history = load_phrase_history()
+    for phrase in phrases:
+        entry = {
+            "english": phrase.get("english", ""),
+            "category": category,
+            "generated_at": datetime.now().isoformat()
+        }
+        for k, v in phrase.items():
+            if k not in entry:
+                entry[k] = v
+        history.setdefault("phrases", []).append(entry)
+    save_phrase_history(history)
+    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history.get('phrases', []))})")
+
+
 # ============== CONTENT GENERATION ==============
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
@@ -190,7 +208,7 @@ CRITICAL RULES:
 6. Vary phrase types: reflections, gentle observations, questions, quiet advice.
 
 Return as a JSON array of objects:
-[{"english": "...", "italian": "...", "pronunciation": "..."}]
+[{{"english": "...", "italian": "...", "pronunciation": "..."}}]
 
 Return ONLY valid JSON array."""
 
@@ -236,7 +254,19 @@ Return ONLY valid JSON array."""
             # Remove any trailing commas before closing brackets
             json_content = re.sub(r',\s*([\]\}])', r'\1', json_content)
 
-            phrases = json.loads(json_content)
+            phrases = []
+            try:
+                parsed = json.loads(json_content, strict=False)
+                if isinstance(parsed, list):
+                    phrases = parsed
+            except Exception:
+                for m in re.finditer(r'\{[^{}]*\}', json_content):
+                    try:
+                        obj = json.loads(m.group(0), strict=False)
+                        if isinstance(obj, dict):
+                            phrases.append(obj)
+                    except Exception:
+                        pass
             print(f"[content] Parsed {len(phrases)} candidate phrases from AI")
 
             for phrase in phrases:
