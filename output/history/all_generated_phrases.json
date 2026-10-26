@@ -15269,7 +15269,42 @@
       "generated_at": "2026-10-26T17:44:50.595623",
       "italian": "Assapora la frutta lentamente, torna qui.",
       "pronunciation": "as-sa-po-ra la frut-ta len-ta-men-te tor-na qui"
+    },
+    {
+      "english": "Balance in the new hallway, slow breath.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T20:31:07.874884",
+      "italian": "Equilibrio nel corridoio nuovo, respiro lento.",
+      "pronunciation": "e-qui-li-bri-o nel cor-ri-do-i-o nuo-vo, re-spi-ro len-to"
+    },
+    {
+      "english": "Step, then look around, without rushing.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T20:31:07.874894",
+      "italian": "Fai un passo, poi guarda, senza fretta.",
+      "pronunciation": "fai un pas-so, poi guar-da, sen-za fret-ta"
+    },
+    {
+      "english": "Your feet learn, even when streets confuse.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T20:31:07.874898",
+      "italian": "I tuoi piedi imparano, anche quando le strade confondono.",
+      "pronunciation": "i tuo-i pie-di im-pa-ra-no, an-che quan-do le stra-de con-fon-do-no"
+    },
+    {
+      "english": "Hold the map lightly, let curiosity guide.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T20:31:07.874901",
+      "italian": "Tieni la mappa piano, lascia parlare la curiosità.",
+      "pronunciation": "tie-ni la map-pa pi-a-no, la-scia par-la-re la cu-ri-o-si-tà"
+    },
+    {
+      "english": "In unfamiliar rooms, soften your shoulders.",
+      "category": "Balance",
+      "generated_at": "2026-10-26T20:31:07.874902",
+      "italian": "Nelle stanze sconosciute, ammorbidi le spalle.",
+      "pronunciation": "nel-le stan-ze scon-o-sciu-te, am-mor-bi-di le spal-le"
     }
   ],
-  "last_updated": "2026-10-26T17:44:50.595626"
+  "last_updated": "2026-10-26T20:31:07.874904"
 }
