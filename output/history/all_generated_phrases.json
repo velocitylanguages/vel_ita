@@ -15374,7 +15374,42 @@
       "generated_at": "2026-10-27T00:28:31.877471",
       "italian": "Il vento del mattino ti ricorda, studia.",
       "pronunciation": "eel VEN-toh del mah-ttee-noh tee ree-KOR-dah, STOO-dee-ah"
+    },
+    {
+      "english": "Thanks for the unsaid, friend.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-27T13:13:56.958470",
+      "italian": "Grazie per ciò che non dici, amico.",
+      "pronunciation": "gra-tsie per ciò che non dè-chi, ah-mi-co"
+    },
+    {
+      "english": "Your silence holds me together.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-27T13:13:56.958488",
+      "italian": "Il tuo silenzio mi tiene insieme.",
+      "pronunciation": "il tuo si-lèn-tsio mi tè-nee in-siè-me"
+    },
+    {
+      "english": "We share strength, without talking.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-27T13:13:56.958494",
+      "italian": "Dividiamo forza, senza parole.",
+      "pronunciation": "di-vi-dia-mo fòr-tsa, sen-tsa pèr-o-le"
+    },
+    {
+      "english": "Thanks for the room you make.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-27T13:13:56.958497",
+      "italian": "Grazie per lo spazio che mi dai.",
+      "pronunciation": "gra-tsie per lo spà-zio che mi dâi"
+    },
+    {
+      "english": "You listen with your whole heart.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-27T13:13:56.958499",
+      "italian": "Mi ascolti col cuore, non a metà.",
+      "pronunciation": "mi as-sò-lti col kuò-re, non a mèt-a"
     }
   ],
-  "last_updated": "2026-10-27T00:28:31.877475"
+  "last_updated": "2026-10-27T13:13:56.958501"
 }
