@@ -15654,7 +15654,42 @@
       "generated_at": "2026-10-28T20:16:35.133346",
       "italian": "Crea spazio nel giorno, per petali nuovi.",
       "pronunciation": "Cre-a spa-zio nel gior-no, per pe-ta-li nuo-vi."
+    },
+    {
+      "english": "In the crowd, one kind gaze anchors you.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T22:55:34.252655",
+      "italian": "In mezzo alla folla, un’occhiata gentile ti ancora.",
+      "pronunciation": "in mez-zo al-la fol-la, un-ok-chi-a-ta jen-ti-le ti an-co-ra"
+    },
+    {
+      "english": "Her smile, a map hidden in noise.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T22:55:34.252666",
+      "italian": "Il suo sorriso, una mappa nascosta nel rumore.",
+      "pronunciation": "il suo so-ri-so, u-na map-pa nas-co-sta nel ru-mo-re"
+    },
+    {
+      "english": "Look up, there’s warmth between strangers.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T22:55:34.252670",
+      "italian": "Alza lo sguardo, c’è calore tra sconosciuti.",
+      "pronunciation": "al-za lo sguar-do, che ca-lo-re tra scon-o-sciu-ti"
+    },
+    {
+      "english": "Find the face that listens, not just passes.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T22:55:34.252672",
+      "italian": "Cerca quello che ascolta, non solo che passa.",
+      "pronunciation": "cèr-ca quel-lo che a-scol-ta, non só-lo che pas-sa"
+    },
+    {
+      "english": "Kindness can stand out, quietly.",
+      "category": "Confidence",
+      "generated_at": "2026-10-28T22:55:34.252674",
+      "italian": "La gentilezza spicca, senza fare rumore.",
+      "pronunciation": "la jen-ti-lez-za spiòc-ca, sen-za fa-re ru-mo-re"
     }
   ],
-  "last_updated": "2026-10-28T20:16:35.133348"
+  "last_updated": "2026-10-28T22:55:34.252676"
 }
