@@ -15584,7 +15584,42 @@
       "generated_at": "2026-10-28T14:03:04.258118",
       "italian": "Il silenzio stringe, entra il coraggio.",
       "pronunciation": "il si-lèn-tsjo strin-dʒe, èn-tra il kor-a-dʒo"
+    },
+    {
+      "english": "Sip slowly, let your thoughts soften.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T17:28:47.516360",
+      "italian": "Bevi piano, lascia ammorbidire i pensieri.",
+      "pronunciation": "BEV-ee PEE-noh, la-SCHA am-mor-bi-DEH-reh ee pen-SYEH-ree."
+    },
+    {
+      "english": "Tea in hand, breathe like steam.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T17:28:47.516372",
+      "italian": "Tazza in mano, respira come vapore.",
+      "pronunciation": "TAT-tsa een MA-noh, re-SPEE-rah KOH-meh va-POH-reh."
+    },
+    {
+      "english": "Warm cup, calmer mind.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T17:28:47.516376",
+      "italian": "Tisana calda, mente più quieta.",
+      "pronunciation": "tee-SA-na kal-DAH, MEN-teh pyo KWAY-ee-ta."
+    },
+    {
+      "english": "How does the warmth meet you?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T17:28:47.516379",
+      "italian": "La caldaia dell’anima, come ti accoglie?",
+      "pronunciation": "la KAL-dah-ee-ah dell’AH-nee-mah, KOH-meh tee ak-KOH-lyeh?"
+    },
+    {
+      "english": "Stir once, notice your heartbeat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-28T17:28:47.516380",
+      "italian": "Gira piano, ascolta il battito.",
+      "pronunciation": "JEE-rah PEE-ah-noh, ah-SKOOL-tah eel bat-TEE-toh."
     }
   ],
-  "last_updated": "2026-10-28T14:03:04.258120"
+  "last_updated": "2026-10-28T17:28:47.516383"
 }
