@@ -15759,7 +15759,42 @@
       "generated_at": "2026-10-29T17:36:26.912303",
       "italian": "Scegli calma, e rimbalza lontano.",
       "pronunciation": "sċel-í kal-ma, e rim-bàl-za lon-tá-no"
+    },
+    {
+      "english": "Let silence brush your thoughts softly.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-29T20:18:59.794763",
+      "italian": "Lascia che il silenzio accarezzi i pensieri.",
+      "pronunciation": "la-SCIA-ké il si-LEN-tsio ak-ka-Rèz-zi i pen-SIE-ri"
+    },
+    {
+      "english": "In the forest, even breath slows down.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-29T20:18:59.794776",
+      "italian": "Nel bosco, persino il respiro rallenta.",
+      "pronunciation": "nel BOS-ko, per-SI-no il re-SPI-ro ral-LÈN-ta"
+    },
+    {
+      "english": "Listen to the hush between leaves.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-29T20:18:59.794780",
+      "italian": "Ascolta il fruscio tra le foglie.",
+      "pronunciation": "a-skol-TÁ il FRU-scio tra le FÒ-glie"
+    },
+    {
+      "english": "Quiet is a path, not emptiness.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-29T20:18:59.794782",
+      "italian": "Il silenzio è un sentiero, non un vuoto.",
+      "pronunciation": "il si-LEN-tsio è un sen-TIè-ro, non un VUO-to"
+    },
+    {
+      "english": "When noise rises, lower your gaze.",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-29T20:18:59.794784",
+      "italian": "Quando sale il rumore, abbassa lo sguardo.",
+      "pronunciation": "quan-do SA-le il ru-MÓ-re, ab-BÁS-sa lo sgwar-DO"
     }
   ],
-  "last_updated": "2026-10-29T17:36:26.912305"
+  "last_updated": "2026-10-29T20:18:59.794786"
 }
