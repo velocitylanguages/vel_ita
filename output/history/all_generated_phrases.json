@@ -15934,7 +15934,42 @@
       "generated_at": "2026-10-30T19:58:35.596392",
       "italian": "Segui la macchia di sole, sul pavimento.",
       "pronunciation": "SE-gui la MÁc-chia di SO-le, sul pa-vi-MEN-to"
+    },
+    {
+      "english": "Rain teaches, wait for the window to soften.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T22:42:09.196585",
+      "italian": "La pioggia insegna, aspetta che il vetro ceda.",
+      "pronunciation": "la PYOT-tsya in-SE-gna, as-PET-ta chel VE-tro CHE-dah"
+    },
+    {
+      "english": "When it pours outside, breathe inside.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T22:42:09.196597",
+      "italian": "Se fuori piove forte, respira dentro.",
+      "pronunciation": "seh FOO-ri POI-ve FOR-te, re-SPY-ra DIn-tro"
+    },
+    {
+      "english": "Let the drops trace time, not hurry.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T22:42:09.196601",
+      "italian": "Lascia che le gocce disegnino tempo, senza fretta.",
+      "pronunciation": "LAS-sya che leh GOHT-she de-ZAY-nee-no TEM-po, SEN-za FREHT-ta"
+    },
+    {
+      "english": "Patience, like rain, comes in rounds.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T22:42:09.196604",
+      "italian": "Pazienza, come la pioggia, torna a ondate.",
+      "pronunciation": "pa-TSI-en-tsa, KOH-me la PYOT-tsya, TOR-na ah on-DA-te"
+    },
+    {
+      "english": "Hold your pace, the day will open.",
+      "category": "Patience",
+      "generated_at": "2026-10-30T22:42:09.196605",
+      "italian": "Tieni il tuo passo, la giornata si apre.",
+      "pronunciation": "TEE-nee il TOO-oh pahs-so, la johr-na-ta si AP-reh"
     }
   ],
-  "last_updated": "2026-10-30T19:58:35.596394"
+  "last_updated": "2026-10-30T22:42:09.196607"
 }
