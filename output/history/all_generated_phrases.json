@@ -16354,7 +16354,42 @@
       "generated_at": "2026-11-02T00:45:40.845056",
       "italian": "Rispondi piano, la gentilezza ti raggiunge.",
       "pronunciation": "ri-SPON-dee PYA-no, la jen-tee-LEET-sa tee rad-JOON-je"
+    },
+    {
+      "english": "In noise, I breathe slower, forgiving.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-02T17:04:53.684210",
+      "italian": "Nel rumore, respiro piano, perdono.",
+      "pronunciation": "Nel RU-mo-re, reSPI-ro PIA-no, PER-do-no."
+    },
+    {
+      "english": "Let the clash pass, like steam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-02T17:04:53.684224",
+      "italian": "Lascia andare lo scontro, come vapore.",
+      "pronunciation": "LaSÉ-cia an-DÀ-re lo SCÓN-tro, KÓ-me VA-po-re."
+    },
+    {
+      "english": "Your words fade, my calm stays.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-02T17:04:53.684231",
+      "italian": "Le tue parole svaniscono, la calma resta.",
+      "pronunciation": "Le TÚ-e pa-RO-le sva-NE-Sko-no, la KÁl-ma re-sta."
+    },
+    {
+      "english": "Between conversations, I choose mercy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-02T17:04:53.684234",
+      "italian": "Tra le chiacchiere, scelgo misericordia.",
+      "pronunciation": "Trà le kjàk-ki-e-re, SCél-go mi-se-ri-KOR-di-a."
+    },
+    {
+      "english": "Forgiveness is closing one noisy door.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-02T17:04:53.684236",
+      "italian": "Perdonare è chiudere una porta rumorosa.",
+      "pronunciation": "per-do-NÀ-re è kjù-de-re u-na PÓr-ta ru-mo-RÓ-sa."
     }
   ],
-  "last_updated": "2026-11-02T00:45:40.845062"
+  "last_updated": "2026-11-02T17:04:53.684239"
 }
