@@ -20,7 +20,7 @@ if sys.platform == "win32":
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
-AI_MODEL = os.getenv("AI_MODEL", "gemini-fast")
+AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-5.4-nano")
 
 # Directories
 BASE_DIR = Path(__file__).parent
@@ -213,7 +213,7 @@ Return as a JSON array of objects:
 Return ONLY valid JSON array."""
 
         payload = {
-            "model": AI_MODEL or "gemini-fast",
+            "model": AI_MODEL or "openai/gpt-5.4-nano",
             "messages": [
                 {"role": "system", "content": "You are a master Italian language teacher. Produce creative, diverse, natural phrases. Return ONLY valid JSON."},
                 {"role": "user", "content": prompt}
@@ -224,7 +224,7 @@ Return ONLY valid JSON array."""
 
         try:
             auth_info = "Bearer" if "Authorization" in headers else "query_param"
-            print(f"[content] Calling AI (model={AI_MODEL or 'gemini-fast'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
+            print(f"[content] Calling AI (model={AI_MODEL or 'openai/gpt-5.4-nano'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
             response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
             
             if response.status_code == 401 and attempt < max_attempts - 1:
