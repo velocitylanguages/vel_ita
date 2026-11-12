@@ -17054,7 +17054,42 @@
       "transliteration": "Chia-mo un a-mi-co, e la gio-ia ri-spon-de.",
       "category": "Happiness",
       "generated_at": "2026-11-12T01:53:10.165620"
+    },
+    {
+      "english": "Take your time, things will work out.",
+      "italian": "Prenditi il tempo, andrà tutto bene.",
+      "transliteration": "prenditi il TEM-po, an-dra tut-to BE-ne",
+      "category": "Patience",
+      "generated_at": "2026-11-12T04:38:32.277214"
+    },
+    {
+      "english": "No rush, even delays can help.",
+      "italian": "Niente fretta, anche i ritardi aiutano.",
+      "transliteration": "nien-te FRET-ta, an-che i ri-TAR-di aiu-ta-no",
+      "category": "Patience",
+      "generated_at": "2026-11-12T04:38:32.277226"
+    },
+    {
+      "english": "Be calm, answers come when ready.",
+      "italian": "Resta calmo, le risposte arrivano quando sono pronti.",
+      "transliteration": "re-STa cal-mo, le ri-SPo- ste ar-ri-va-no quan-do so-no PRON-ti",
+      "category": "Patience",
+      "generated_at": "2026-11-12T04:38:32.277228"
+    },
+    {
+      "english": "Step back, let the feeling cool.",
+      "italian": "Fatti da parte, lascia raffreddare il cuore.",
+      "transliteration": "fat-ti da PAR-te, la scia raf-FRE-dda-re il KUo-re",
+      "category": "Patience",
+      "generated_at": "2026-11-12T04:38:32.277229"
+    },
+    {
+      "english": "Hold on, tomorrow is closer than you think.",
+      "italian": "Resisti, domani è più vicino di quanto credi.",
+      "transliteration": "re-SI-sti, do-MA-ni è piu VICI-no di quan-to cre-di",
+      "category": "Patience",
+      "generated_at": "2026-11-12T04:38:32.277231"
     }
   ],
-  "last_updated": "2026-11-12T01:53:10.165622"
+  "last_updated": "2026-11-12T04:38:32.277235"
 }
