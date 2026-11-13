@@ -17229,7 +17229,42 @@
       "transliteration": "la-scio an-da-re, e il gior-no si il-lu-mi-na.",
       "category": "Hope",
       "generated_at": "2026-11-13T00:58:16.709438"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "italian": "Posso farcela, passo dopo passo.",
+      "transliteration": "Posso farcela, passo dopo passo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:51:22.503853"
+    },
+    {
+      "english": "I slow down, and I handle it.",
+      "italian": "Rallento, e ce la faccio.",
+      "transliteration": "Rallento, e ce la faccio.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:51:22.503868"
+    },
+    {
+      "english": "I trust myself, even if I’m nervous.",
+      "italian": "Mi fido di me, anche se sono in ansia.",
+      "transliteration": "Mi fido di me, anche se sono in ansia.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:51:22.503870"
+    },
+    {
+      "english": "I breathe in, I speak out.",
+      "italian": "Inspiro, e parlo.",
+      "transliteration": "Inspiro, e parlo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:51:22.503870"
+    },
+    {
+      "english": "I speak up, my heart stays steady.",
+      "italian": "Parlo, il cuore resta tranquillo.",
+      "transliteration": "Parlo, il cuore resta tranquillo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:51:22.503871"
     }
   ],
-  "last_updated": "2026-11-13T00:58:16.709439"
+  "last_updated": "2026-11-13T03:51:22.503873"
 }
