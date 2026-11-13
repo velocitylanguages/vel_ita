@@ -17264,7 +17264,42 @@
       "transliteration": "Parlo, il cuore resta tranquillo.",
       "category": "Confidence",
       "generated_at": "2026-11-13T03:51:22.503871"
+    },
+    {
+      "english": "Start small, and keep going.",
+      "italian": "Inizia piano, e continua.",
+      "transliteration": "Iniz ia pìano, e continua.",
+      "category": "Success",
+      "generated_at": "2026-11-13T19:32:42.617948"
+    },
+    {
+      "english": "Finish this now, feel lighter.",
+      "italian": "Finisci adesso, ti sentirai più leggero.",
+      "transliteration": "Finisci adesso, ti sentirai piú leggero.",
+      "category": "Success",
+      "generated_at": "2026-11-13T19:32:42.617963"
+    },
+    {
+      "english": "Say yes to progress, today.",
+      "italian": "Di’ sì ai progressi, oggi.",
+      "transliteration": "Di sì ai progressi, oggi.",
+      "category": "Success",
+      "generated_at": "2026-11-13T19:32:42.617965"
+    },
+    {
+      "english": "Make space, then choose calmly.",
+      "italian": "Fai spazio, poi scegli con calma.",
+      "transliteration": "Fai spazio, poi scegli con calma.",
+      "category": "Success",
+      "generated_at": "2026-11-13T19:32:42.617965"
+    },
+    {
+      "english": "You’ve got this, one step.",
+      "italian": "Ce la fai, un passo.",
+      "transliteration": "Ce la fai, un passo.",
+      "category": "Success",
+      "generated_at": "2026-11-13T19:32:42.617966"
     }
   ],
-  "last_updated": "2026-11-13T03:51:22.503873"
+  "last_updated": "2026-11-13T19:32:42.617968"
 }
