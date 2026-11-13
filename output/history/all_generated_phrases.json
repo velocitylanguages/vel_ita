@@ -17299,7 +17299,42 @@
       "transliteration": "Ce la fai, un passo.",
       "category": "Success",
       "generated_at": "2026-11-13T19:32:42.617966"
+    },
+    {
+      "english": "I do one small thing, on purpose.",
+      "italian": "Faccio una piccola cosa, di proposito.",
+      "transliteration": "Faccio una piccola kosa, di proposito",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:51:04.833511"
+    },
+    {
+      "english": "Today, I act with steady patience.",
+      "italian": "Oggi agisco con pazienza costante.",
+      "transliteration": "Oggi agisco kon pazienza kostante",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:51:04.833523"
+    },
+    {
+      "english": "I start now, no more waiting.",
+      "italian": "Inizio adesso, non aspetto più.",
+      "transliteration": "Inizio adesso, non aspetto piu",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:51:04.833524"
+    },
+    {
+      "english": "I finish what I begin, calmly.",
+      "italian": "Porto a termine ciò che inizio, con calma.",
+      "transliteration": "Porto a termine cio ke inizio, kon kalma",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:51:04.833526"
+    },
+    {
+      "english": "I choose progress, even if it’s tiny.",
+      "italian": "Scelgo il progresso, anche se è piccolo.",
+      "transliteration": "Sselgo il progresso, anke se è pikolo",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:51:04.833527"
     }
   ],
-  "last_updated": "2026-11-13T19:32:42.617968"
+  "last_updated": "2026-11-13T20:51:04.833529"
 }
