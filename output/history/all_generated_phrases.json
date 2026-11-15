@@ -17614,7 +17614,42 @@
       "transliteration": "SOR-ri-di PIА-no, se ne ак-KÓr-go-no PRE-sto.",
       "category": "Positive Life",
       "generated_at": "2026-11-15T03:29:08.482453"
+    },
+    {
+      "english": "I can handle this moment, calmly.",
+      "italian": "Posso gestire questo momento, con calma.",
+      "transliteration": "Posso gestire questo momento, con calma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T18:45:32.399797"
+    },
+    {
+      "english": "I take a breath, then I try.",
+      "italian": "Faccio un respiro, poi ci provo.",
+      "transliteration": "Faccio un respiro, poi ci provo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T18:45:32.399811"
+    },
+    {
+      "english": "My voice is mine, and it matters.",
+      "italian": "La mia voce è mia, e conta.",
+      "transliteration": "La mia voce è mia, e conta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T18:45:32.399813"
+    },
+    {
+      "english": "I pause, I listen, I respond.",
+      "italian": "Mi fermo, ascolto, poi rispondo.",
+      "transliteration": "Mi fermo, ascolto, poi rispondo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T18:45:32.399814"
+    },
+    {
+      "english": "I don’t need to be perfect.",
+      "italian": "Non devo essere perfetto.",
+      "transliteration": "Non devo essere perfetto.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T18:45:32.399815"
     }
   ],
-  "last_updated": "2026-11-15T03:29:08.482455"
+  "last_updated": "2026-11-15T18:45:32.399817"
 }
