@@ -17929,7 +17929,42 @@
       "transliteration": "Pa-role gen-ti-li, re-sta-no nel-la mia men-te.",
       "category": "Happiness",
       "generated_at": "2026-11-17T02:51:57.484182"
+    },
+    {
+      "english": "Be patient, take it one moment at time.",
+      "italian": "Pazienza, prendila un momento alla volta.",
+      "transliteration": "pa-tsien-tsa, pren-di-la un mo-men-to al-la vol-ta",
+      "category": "Patience",
+      "generated_at": "2026-11-17T05:29:20.507597"
+    },
+    {
+      "english": "Wait your turn, it will come around.",
+      "italian": "Aspetta il tuo turno, arriverà.",
+      "transliteration": "a-spet-ta il tuo tur-no, ar-rive-ra",
+      "category": "Patience",
+      "generated_at": "2026-11-17T05:29:20.507609"
+    },
+    {
+      "english": "Stay calm, even if it takes longer.",
+      "italian": "Resta calmo, anche se ci vuole più tempo.",
+      "transliteration": "re-sta cal-mo, an-che se ci vo-le più tem-po",
+      "category": "Patience",
+      "generated_at": "2026-11-17T05:29:20.507611"
+    },
+    {
+      "english": "Go slow, don’t force anything.",
+      "italian": "Vai piano, non forzare nulla.",
+      "transliteration": "vai pia-no, non for-za-re nul-la",
+      "category": "Patience",
+      "generated_at": "2026-11-17T05:29:20.507613"
+    },
+    {
+      "english": "Let it settle, then decide.",
+      "italian": "Lascia che si assesti, poi decidi.",
+      "transliteration": "la-scia che si as-sê-sti, poi de-ci-di",
+      "category": "Patience",
+      "generated_at": "2026-11-17T05:29:20.507614"
     }
   ],
-  "last_updated": "2026-11-17T02:51:57.484186"
+  "last_updated": "2026-11-17T05:29:20.507616"
 }
