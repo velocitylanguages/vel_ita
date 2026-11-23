@@ -18979,7 +18979,42 @@
       "transliteration": "Fai il pros-si-mo pas-so, non tut-to.",
       "category": "Success",
       "generated_at": "2026-11-23T00:40:58.942000"
+    },
+    {
+      "english": "I speak clearly, even with butterflies.",
+      "italian": "Parlo chiaro, anche con le farfalle.",
+      "transliteration": "Parlo chiaro, anke kon le farfalle.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T04:23:59.851810"
+    },
+    {
+      "english": "I can start messy, then improve.",
+      "italian": "Posso iniziare così, poi miglioro.",
+      "transliteration": "Posso iniziare così, poi miglioro.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T04:23:59.851826"
+    },
+    {
+      "english": "I hold my ground, one moment.",
+      "italian": "Tengo la mia posizione, un momento.",
+      "transliteration": "Tengo la mia posizione, un momento.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T04:23:59.851828"
+    },
+    {
+      "english": "I trust my effort more than fear.",
+      "italian": "Fidarmi del mio impegno batte la paura.",
+      "transliteration": "Fidarmi del mio impegno batte la paura.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T04:23:59.851829"
+    },
+    {
+      "english": "I’m learning, and that’s enough.",
+      "italian": "Sto imparando, e basta così.",
+      "transliteration": "Sto imparando, e basta così.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T04:23:59.851831"
     }
   ],
-  "last_updated": "2026-11-23T00:40:58.942002"
+  "last_updated": "2026-11-23T04:23:59.851833"
 }
