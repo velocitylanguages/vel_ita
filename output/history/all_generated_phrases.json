@@ -19224,7 +19224,42 @@
       "transliteration": "Se e stra-no, for-se fun-zio-na.",
       "category": "Creativity",
       "generated_at": "2026-11-24T22:17:28.923088"
+    },
+    {
+      "english": "Relax your arms, stand calmly.",
+      "italian": "Rilassa le braccia, resta calmo.",
+      "transliteration": "Rilassa le BRACcia, resta CALmo.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T23:28:31.431410"
+    },
+    {
+      "english": "Take your time, adjust softly.",
+      "italian": "Prenditi il tempo, aggiusta piano.",
+      "transliteration": "PRENditi il TEMpo, AGGiussta PAno.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T23:28:31.431425"
+    },
+    {
+      "english": "Plant one foot, then breathe.",
+      "italian": "Metti un piede, poi respira.",
+      "transliteration": "METti un PIEde, poi reSPIra.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T23:28:31.431427"
+    },
+    {
+      "english": "Let your body follow your steps.",
+      "italian": "Lascia che il corpo segua i passi.",
+      "transliteration": "LASCIA che il CORpo SEGua i PASSi.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T23:28:31.431428"
+    },
+    {
+      "english": "Look where you go, not down.",
+      "italian": "Guarda dove vai, non in basso.",
+      "transliteration": "GUarDa doVe VAI, non in BASso.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T23:28:31.431430"
     }
   ],
-  "last_updated": "2026-11-24T22:17:28.923090"
+  "last_updated": "2026-11-24T23:28:31.431432"
 }
