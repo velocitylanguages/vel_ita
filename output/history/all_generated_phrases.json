@@ -19014,7 +19014,42 @@
       "transliteration": "Sto imparando, e basta così.",
       "category": "Confidence",
       "generated_at": "2026-11-23T04:23:59.851831"
+    },
+    {
+      "english": "You’re doing better than you think, today.",
+      "italian": "Stai facendo meglio di quanto pensi, oggi.",
+      "transliteration": "Stai facendo meglio di quanto pensi, oggi",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T23:55:24.029855"
+    },
+    {
+      "english": "Speak kindly, even when you’re tired.",
+      "italian": "Parla con gentilezza, anche quando sei stanco.",
+      "transliteration": "Parla con gentilezza, anche quando sei stanco",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T23:55:24.029870"
+    },
+    {
+      "english": "A little courage goes a long way.",
+      "italian": "Un po’ di coraggio fa molta strada.",
+      "transliteration": "Un po’ di coraggio fa molta strada",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T23:55:24.029872"
+    },
+    {
+      "english": "Ask for help, it’s strong.",
+      "italian": "Chiedi aiuto, è forza.",
+      "transliteration": "Chiedi aiuto, è forza",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T23:55:24.029875"
+    },
+    {
+      "english": "Let go of fear, keep walking.",
+      "italian": "Lascia andare la paura, continua.",
+      "transliteration": "Lascia andare la paura, continua",
+      "category": "Positive Life",
+      "generated_at": "2026-11-23T23:55:24.029876"
     }
   ],
-  "last_updated": "2026-11-23T04:23:59.851833"
+  "last_updated": "2026-11-23T23:55:24.029878"
 }
