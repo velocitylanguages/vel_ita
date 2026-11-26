@@ -19469,7 +19469,42 @@
       "transliteration": "Chia-ma-mi, ci so-no.",
       "category": "Friendship",
       "generated_at": "2026-11-26T00:49:31.155779"
+    },
+    {
+      "english": "I fall, but I get up.",
+      "italian": "Cado, ma mi rialzo.",
+      "transliteration": "Kado, ma mi rialzo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T02:44:43.749497"
+    },
+    {
+      "english": "I continue, even when it’s awkward.",
+      "italian": "Continuo, anche se è imbarazzante.",
+      "transliteration": "Continuo, anke se è imbarazzante.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T02:44:43.749514"
+    },
+    {
+      "english": "I practice, and I don’t quit.",
+      "italian": "Pratico, e non mollo.",
+      "transliteration": "Pratiko, e non mollo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T02:44:43.749516"
+    },
+    {
+      "english": "Small progress counts, every day.",
+      "italian": "Anche i piccoli progressi contano, ogni giorno.",
+      "transliteration": "Anke i picoli progressi kontano, ogn i giorno.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T02:44:43.749517"
+    },
+    {
+      "english": "I take a breath, then restart.",
+      "italian": "Faccio un respiro, poi ricomincio.",
+      "transliteration": "Faccio un respiro, poi ricomincio.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-26T02:44:43.749518"
     }
   ],
-  "last_updated": "2026-11-26T00:49:31.155781"
+  "last_updated": "2026-11-26T02:44:43.749521"
 }
