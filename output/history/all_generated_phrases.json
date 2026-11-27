@@ -19672,7 +19672,28 @@
       "transliteration": "GI-ra PA-gi-na, la-scia re-spi-ra-re lei-dee.",
       "category": "Creativity",
       "generated_at": "2026-11-27T19:25:11.932467"
+    },
+    {
+      "english": "Go straight, then turn left at the corner.",
+      "italian": "Vai dritto, poi gira a sinistra all'angolo.",
+      "transliteration": "Vài dritto, poi gira a sinistra all'angolo.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T22:43:18.333569"
+    },
+    {
+      "english": "It’s just around the corner, don’t worry.",
+      "italian": "È lì in fondo, non ti preoccupare.",
+      "transliteration": "È lì in fondo, non ti preoccupare.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T22:43:18.333580"
+    },
+    {
+      "english": "Follow me, I’ll show you the way.",
+      "italian": "Vieni con me, ti faccio vedere.",
+      "transliteration": "Vieni con me, ti faccio vedere.",
+      "category": "Directions",
+      "generated_at": "2026-11-27T22:43:18.333582"
     }
   ],
-  "last_updated": "2026-11-27T19:25:11.932469"
+  "last_updated": "2026-11-27T22:43:18.333584"
 }
