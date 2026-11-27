@@ -2,9 +2,9 @@ name: Velocity Italian - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:27 * * *'
-    - cron: '08:27 * * *'
-    - cron: '16:27 * * *'
+    - cron: '27 0 * * *'
+    - cron: '27 8 * * *'
+    - cron: '27 16 * * *'
   workflow_dispatch:
     inputs:
       category:
